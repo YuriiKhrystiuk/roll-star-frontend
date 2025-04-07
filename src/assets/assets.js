@@ -372,14 +372,14 @@ export const ordered_final = [ // масив з замовленнями + ко�
     ordered
 ]
 
-export const menu_items_list = [ // Меню
+export const menu_items_list = [ // Menu
     {
         id: "1",
         image: caprichoza,
         title: "Капрічоза",
         description: "Тісто, маринара, куряче філе, шинка, печериці, моцарела, маслини, помідор",
         weight: 650,
-        price: 210,
+        price: 235,
         type: "pizza"
     },
     {
@@ -388,7 +388,7 @@ export const menu_items_list = [ // Меню
         title: "Цезар",
         description: "Тісто, вершки, моцарела, куряче філе, бекон, томат чері, яйця перепелині, айсберг, пармезан",
         weight: 650,
-        price: 230,
+        price: 289,
         type: "pizza"
     },
     {
@@ -397,7 +397,7 @@ export const menu_items_list = [ // Меню
         title: "Діабло",
         description: "Тісто, маринара, моцарела, пепероні, мисливські ковбаски, бекон, соус ширачі, халапеньйо",
         weight: 650,
-        price: 215,
+        price: 240,
         type: "pizza"
     },
     {
@@ -406,7 +406,7 @@ export const menu_items_list = [ // Меню
         title: "Маргарита",
         description: "Тісто, маринара, моцарела, помідор, оливки",
         weight: 600,
-        price: 175,
+        price: 210,
         type: "pizza"
     },
     {
@@ -424,7 +424,7 @@ export const menu_items_list = [ // Меню
         title: "М’ясна",
         description: "Тісто, маринара, моцарела, бекон, салямі, шинка, айсберг",
         weight: 650,
-        price: 210,
+        price: 280,
         type: "pizza"
     },
     {
@@ -433,7 +433,7 @@ export const menu_items_list = [ // Меню
         title: "Мисливська",
         description: "Тісто, маринара, моцарела, мисливські ковбаси, салямі, оливки",
         weight: 650,
-        price: 210,
+        price: 250,
         type: "pizza"
     },
     {
@@ -442,7 +442,7 @@ export const menu_items_list = [ // Меню
         title: "Прошуто і Манго",
         description: "Тісто, маринара, моцарела, прошуто, сир дорблю, манго",
         weight: 650,
-        price: 260,
+        price: 280,
         type: "pizza"
     },
     {
@@ -451,7 +451,7 @@ export const menu_items_list = [ // Меню
         title: "Салямі",
         description: "Тісто, маринара, моцарела, салямі",
         weight: 650,
-        price: 210,
+        price: 239,
         type: "pizza"
     },
     {
@@ -460,7 +460,7 @@ export const menu_items_list = [ // Меню
         title: "Морепродукти",
         description: "Тісто, маринара, моцарела, лосось, мідія, кальмар, креветка тигрова, руккола",
         weight: 650,
-        price: 280,
+        price: 299,
         type: "pizza"
     },
     {
@@ -469,7 +469,7 @@ export const menu_items_list = [ // Меню
         title: "Дуже М’ясна",
         description: "Тісто, маринара, моцарела, шинка, бекон, салямі, мисливські ковбаси, куряче філе, пепероні, айсберг",
         weight: 650,
-        price: 240,
+        price: 299,
         type: "pizza"
     },
     {
@@ -478,16 +478,16 @@ export const menu_items_list = [ // Меню
         title: "Гавайська",
         description: "Тісто, моцарела, вершки, шинка, бекон, помідор, ананас консервований",
         weight: 650,
-        price: 220,
+        price: 240,
         type: "pizza"
-    },    
+    },
     {
         id: "50",
         image: set1,
         title: "Сет №1",
         description: 'Філадельфія з вугрем, Філадельфія класична, Філадельфія з тунцем',
         weight: 720,
-        price: 800,
+        price: 830,
         type: "sushi"
     },
     {
@@ -496,7 +496,7 @@ export const menu_items_list = [ // Меню
         title: "Сет №2",
         description: 'Філадельфія з вугрем, Філадельфія класична, Філадельфія гриль з грушею, Філадельфія з тунцем',
         weight: 970,
-        price: 1050,
+        price: 1061,
         type: "sushi"
     },
     {
@@ -505,7 +505,7 @@ export const menu_items_list = [ // Меню
         title: "Сет №3",
         description: 'Black Філадельфія гриль з авокадо, Black Філадельфія гриль з манго, Black Філадельфія гриль з тунцем, Філадельфія гриль з грушею',
         weight: 1030,
-        price: 1020,
+        price: 1061,
         type: "sushi"
     },
     {
@@ -514,7 +514,7 @@ export const menu_items_list = [ // Меню
         title: "Сет №4",
         description: 'Black чеддер з грушею, Філадельфія класична, Black Аляска з тунцем, Боніто з копченим лососем',
         weight: 930,
-        price: 950,
+        price: 985,
         type: "sushi"
     },
     {
@@ -523,7 +523,7 @@ export const menu_items_list = [ // Меню
         title: "Сет №5",
         description: 'Філадельфія з креветкою, Аляска з Лососем, Black Аляска з тунцем, Філадельфія з копченим лососем',
         weight: 980,
-        price: 1085,
+        price: 1195,
         type: "sushi"
     },
     {
@@ -531,7 +531,7 @@ export const menu_items_list = [ // Меню
         image: set6,
         title: "Сет №6",
         description: 'Філадельфія з крабом, Футомак з вугрем, Філадельфія гриль з грушею, Black чеддер з смаженим лососем',
-        weight: 1050,
+        weight: 1065,
         price: 950,
         type: "sushi"
     },
@@ -541,7 +541,7 @@ export const menu_items_list = [ // Меню
         title: "Сет №7",
         description: 'Black Дракон, Зелений дракон, Золотий дракон, Червоний дракон, Зелений дракон з креветкою фрі',
         weight: 1450,
-        price: 1480,
+        price: 1577,
         type: "sushi"
     },
     {
@@ -550,7 +550,7 @@ export const menu_items_list = [ // Меню
         title: "Сет №8",
         description: 'Філадельфія з копченим лососем, Black Аляска з тунцем, Боніто з Лососем, Філадельфія з креветкою, Black чеддер з креветкою фрі, Філадельфія в кунжуті з лососем, Футомак з лососем, Футомак з вугрем',
         weight: 1930,
-        price: 2000,
+        price: 2085,
         type: "sushi"
     },
     {
@@ -559,26 +559,25 @@ export const menu_items_list = [ // Меню
         title: "Хот-сет №9",
         description: 'Теплий з вугрем, Теплий з креветкою фрі, Black Теплий з лососем, Black теплий з копченим лососем',
         weight: 1100,
-        price: 1050,
+        price: 1100,
         type: "sushi"
     },
-    {
+{
         id: "59",
         image: set9,
         title: "Запечений Сет",
         description: 'Запечений з вугрем, Запечений з креветкою, Запечений з лосоем, Запечений з тунцем',
         weight: 1030,
-        price: 1320,
+        price: 1089,
         type: "sushi"
     },
-
     {
         id: "101",
         image: soup_home,
         title: "Том-Ям з Морепродуктами",
         description: "Томат чері, мідія, креветка бейбі, восьминіг, кальмар, кокосове молоко, соєвий соус, том-ям паста, бульйон курячий",
         weight: 500,
-        price: 230,
+        price: 235,
         type: "soups"
     },
     {
@@ -596,19 +595,16 @@ export const menu_items_list = [ // Меню
         title: "Том-Ям з креветками",
         description: "Томат чері, креветка бейбі, кунжут мікс, кокосове молоко, соєвий соус, том-ям паста, бульйон курячий",
         weight: 500,
-        price: 220,
+        price: 225,
         type: "soups"
     },
-    
-
-    
     {
         id: "201",
         image: fish_dog_vugrem,
         title: "Фіш-Dog з вугрем",
         description: "Рис, вершковий сир, соус унагі, кляр, вугор, манго",
         weight: 380,
-        price: 285,
+        price: 315,
         type: "fishburger"
     },
     {
@@ -617,7 +613,7 @@ export const menu_items_list = [ // Меню
         title: "Фіш-Dog з креветкою",
         description: 'Рис, вершковий сир, кляр, соус Світ чілі, креветка тигрова, огірок',
         weight: 380,
-        price: 265,
+        price: 310,
         type: "fishburger",
     },
     {
@@ -626,7 +622,7 @@ export const menu_items_list = [ // Меню
         title: "Фіш-Dog з лососем",
         description: 'Рис, вершковий сир, кляр, соус спайс, лосось, авокадо',
         weight: 380,
-        price: 275,
+        price: 310,
         type: "fishburger"
     },
     {
@@ -635,7 +631,7 @@ export const menu_items_list = [ // Меню
         title: "Фіш-бургер з тунцем",
         description: 'Рис, вершковий сир, тунець, сир чеддер, айсберг, соус унагі, груша, огірок, кляр',
         weight: 450,
-        price: 265,
+        price: 280,
         type: "fishburger",
     },
     {
@@ -644,7 +640,7 @@ export const menu_items_list = [ // Меню
         title: "Фіш-Бургер з лососем",
         description: 'Рис, вершковий сир, кляр, сир чеддер, соус унагі, айсберг, лосось, авокадо, огірок',
         weight: 450,
-        price: 275,
+        price: 290,
         type: "fishburger"
     },
     {
@@ -653,7 +649,7 @@ export const menu_items_list = [ // Меню
         title: "Фіш-Бурег з креветкою",
         description: 'Рис, вершковий сир, кляр, айсберг, авокадо, огірок, креветка тигрова, сир чеддер, соус унагі',
         weight: 450,
-        price: 265,
+        price: 290,
         type: "fishburger"
     },
     {
@@ -662,19 +658,16 @@ export const menu_items_list = [ // Меню
         title: 'Фіш-Бурег з вугрем',
         description: 'Рис, вершковий сир, вугор, сир чеддер, айсберг, соус унагі, манго, огірок, кляр',
         weight: 450,
-        price: 275,
+        price: 290,
         type: "fishburger"
     },
-
-
-
     {
         id: "250",
         image: boul_tuna,
         title: "Боул з тунцем",
         description: 'Рис, салат хіяші, томат чері, айсберг, огірок, груша, тунець, соус унагі, кунжут мікс',
         weight: 420,
-        price: 225,
+        price: 250,
         type: "bouly"
     },
     {
@@ -683,7 +676,7 @@ export const menu_items_list = [ // Меню
         title: "Боул з лососем",
         description: 'Рис, салат хіяші, соус Унагі, томат чері, айсберг, огірок, авокадо, лосось, мигдаль, кунжут мікс',
         weight: 420,
-        price: 265,
+        price: 267,
         type: "bouly"
     },
     {
@@ -692,7 +685,7 @@ export const menu_items_list = [ // Меню
         title: "Боул з креветкою",
         description: 'Рис, салат хіяші, томат чері, айсберг, огірок, авокадо, креветка тигрова, соус унагі, ікра масаго',
         weight: 420,
-        price: 255,
+        price: 270,
         type: "bouly"
     },
     {
@@ -701,10 +694,54 @@ export const menu_items_list = [ // Меню
         title: "Боул з вугрем",
         description: 'Рис, салат хіяші, томат чері, айсберг, огірок, манго, вугор, соус унагі, мигдаль, кунжут мікс',
         weight: 420,
-        price: 275,
+        price: 276,
         type: "bouly"
     },
-    
+    {
+        id: "400",
+        image: handroll_vugor,
+        title: "Хендрол з вугрем",
+        description: "Норі, рис, вершковий сир, вугор, манго, айсберг, соус Унагі, соус спайс",
+        weight: 350,
+        price: 260,
+        type: "rolls"
+    },
+    {
+        id: "401",
+        image: handroll_krewetka,
+        title: "Хендрол з креветкою",
+        description: "Норі, рис, вершковий сир, сир Чеддер, креветка тигрова, авокадо, айсберг, соус Унагі, соус спайс",
+        weight: 350,
+        price: 265,
+        type: "rolls"
+    },
+    {
+        id: "402",
+        image: handroll_losos,
+        title: "Хендрол з лососем",
+        description: "Норі, рис, вершковий сир, сир Чеддер, авокадо, лосось, айсберг, соус Унагі, соус спайс",
+        weight: 350,
+        price: 265,
+        type: "rolls"
+    },
+    {
+        id: "403",
+        image: handroll_tuna,
+        title: "Хендрол з тунцем",
+        description: "Норі, рис, вершковий сир, груша, сир Чеддер, айсберг, соус Унагі, соус спайс, тунець",
+        weight: 350,
+        price: 245,
+        type: "rolls"
+    },
+    {
+        id: "404",
+        image: handroll_krewetka_free,
+        title: "Хендрол з креветкою фрі",
+        description: "Рис, норі, соус спайс, соус унагі, креветка тигрова, груша, айсберг",
+        weight: 350,
+        price: 289,
+        type: "rolls"
+    },
 
     {
         id: "406",
@@ -712,7 +749,7 @@ export const menu_items_list = [ // Меню
         title: "Black Аляска з вугрем",
         description: "Рис, вершковий сир, огірок, авокадо, вугор, норі, ікра масаго",
         weight: 330,
-        price: 300,
+        price: 311,
         type: "rolls"
     },
     {
@@ -730,71 +767,54 @@ export const menu_items_list = [ // Меню
         title: "Black Аляска з тунцем",
         description: "Рис, вершковий сир, авокадо, огірок, тунець, норі",
         weight: 330,
-        price: 249,
+        price: 280,
         type: "rolls"
     },
-    {
-        id: "446",
-        image: alaskaShrimp,
-        title: "Аляска з креветкою",
-        description: "Рис, вершковий сир, огірок, авокадо, креветка тигрова, ікра масага, норі",
-        weight: 330,
-        price: 259,
-        type: "rolls"
-    },
-    {
-        id: "447",
-        image: alaskaSalmon,
-        title: "Аляска з лососем",
-        description: "Рис, вершковий сир, огірок, авокадо, лосось, ікра масага, норі",
-        weight: 330,
-        price: 275,
-        type: "rolls"
-    },
-    
+
     {
         id: "410",
         image: blackDragon,
         title: "Black дракон",
         description: "Рис, норі, вугор, огірок, манго, тунець",
         weight: 330,
-        price: 310,
+        price: 351,
         type: "rolls"
-    },
+    }, 
     {
-        id: "411",
-        image: blackCaliforniaTunaRoe,
-        title: "Black каліфорнія з тунцем",
-        description: "Рис, огірок, авокадо, айсберг, тунець, норі, ікра масаго",
-        weight: 310,
-        price: 245,
-        type: "rolls"
-    },
+            id: "411",
+            image: blackCaliforniaTunaRoe,
+            title: "Black каліфорнія з тунцем",
+            description: "Рис, огірок, авокадо, айсберг, тунець, норі, ікра масаго",
+            weight: 310,
+            price: 245,
+            type: "rolls"
+        },
     {
-        id: "412",
-        image: blackWarmSmokedSalmon,
-        title: "Black теплий з копченим лососем",
-        description: "Рис, вершковий сир, манго, лосось копчений, соус спайс, кляр",
-        weight: 340,
-        price: 275,
-        type: "rolls"
-    },
-    {
-        id: "413",
-        image: blackWarmSalmon,
-        title: "Black теплий з лососем",
-        description: "Норі, рис, вершковий сир, лосось, авокадо, ікра масаго, зелена цибуля, кляр",
-        weight: 340,
-        price: 265,
-        type: "rolls"
-    },
+            id: "412",
+            image: blackWarmSmokedSalmon,
+            title: "Black теплий з копченим лососем",
+            description: "Рис, вершковий сир, манго, лосось копчений, соус спайс, кляр",
+            weight: 340,
+            price: 275,
+            type: "rolls"
+        },
+        {
+            id: "413",
+            image: blackWarmSalmon,
+            title: "Black теплий з лососем",
+            description: "Норі, рис, вершковий сир, лосось, авокадо, ікра масаго, зелена цибуля, кляр",
+            weight: 340,
+            price: 265,
+            type: "rolls"
+        },
+
     {
         id: "414",
         image: blackPhiladelphiaGrillAvocado,
         title: "Black Філадельфія гриль з авокадо",
         description: "Рис, норі, вершковий сир, авокадо, ікра масаго, лосось, кунжут мікс, мигдаль",
         weight: 320,
-        price: 285,
+        price: 299,
         type: "rolls"
     },
     {
@@ -803,7 +823,7 @@ export const menu_items_list = [ // Меню
         title: "Black Філадельфія гриль з манго",
         description: "Рис, вершковий сир, манго, лосось, соус унагі, норі, ікра масаго, кунжут мікс, мигдаль",
         weight: 320,
-        price: 265,
+        price: 290,
         type: "rolls"
     },
     {
@@ -812,16 +832,17 @@ export const menu_items_list = [ // Меню
         title: "Black Філадельфія гриль з тунцем",
         description: "Рис, норі, вершковий сир, груша, соус унагі, кунжут мікс, мигдаль, тунець",
         weight: 310,
-        price: 235,
+        price: 260,
         type: "rolls"
     },
+
     {
         id: "417",
         image: blackCheddarPear,
         title: "Black чедер з грушею",
         description: "Норі, рис, груша, вершковий сир, сир чедер, соус спайс, мигдаль",
         weight: 310,
-        price: 210,
+        price: 292,
         type: "rolls"
     },
     {
@@ -830,7 +851,7 @@ export const menu_items_list = [ // Меню
         title: "Black чедер з жареним лососем",
         description: "Рис, норі, вершковий сир, огірок, сир чедер, лосось, соус спайс, мигдаль",
         weight: 330,
-        price: 200,
+        price: 235,
         type: "rolls"
     },
     {
@@ -839,7 +860,7 @@ export const menu_items_list = [ // Меню
         title: "Black чедер з копченим лососем",
         description: "Рис, вершковий сир, лосось копчений, манго, сир чедер, норі, соус спайс",
         weight: 330,
-        price: 275,
+        price: 282,
         type: "rolls"
     },
     {
@@ -848,7 +869,7 @@ export const menu_items_list = [ // Меню
         title: "Black чедер з крабом",
         description: "Норі, рис, вершковий сир, огірок, сніжний краб, сир чедер, соус спайс, мигдаль",
         weight: 330,
-        price: 240,
+        price: 250,
         type: "rolls"
     },
 
@@ -858,7 +879,7 @@ export const menu_items_list = [ // Меню
         title: "Запечений з лососем",
         description: "Норі, рис, вершковий сир, авокадо, ікра масаго, лосось, сир гауда",
         weight: 340,
-        price: 310,
+        price: 311,
         type: "rolls"
     },
     {
@@ -867,16 +888,17 @@ export const menu_items_list = [ // Меню
         title: "Запечений з тунцем",
         description: "Норі, рис, вершковий сир, тунець, груша, кунжут мікс, сир гауда",
         weight: 340,
-        price: 255,
+        price: 285,
         type: "rolls"
     },
+
     {
         id: "423",
         image: greenDragon,
         title: "Зелений дракон",
         description: "Рис, вершковий сир, норі, вугор, огірок, ікра масаго, авокадо, соус Унагі, кунжут мікс, мигдаль",
         weight: 330,
-        price: 285,
+        price: 302,
         type: "rolls"
     },
     {
@@ -885,7 +907,7 @@ export const menu_items_list = [ // Меню
         title: "Зелений дракон з копченим лососем",
         description: "Рис, вершковий сир, норі, лосось копчений, огірок, ікра масаго, авокадо, соус унагі, кунжут мікс, мигдаль",
         weight: 330,
-        price: 335,
+        price: 345,
         type: "rolls"
     },
     {
@@ -894,7 +916,7 @@ export const menu_items_list = [ // Меню
         title: "Зелений дракон з креветкою фрі",
         description: "Рис, норі, вершковий сир, манго, креветка тигрова, авокадо, соус унагі, кунжут мікс, мигдаль",
         weight: 330,
-        price: 275,
+        price: 301,
         type: "rolls"
     },
     {
@@ -903,34 +925,35 @@ export const menu_items_list = [ // Меню
         title: "Золотий дракон",
         description: "Рис, вершковий сир, норі, авокадо, огірок, лосось, вугор, соус унагі, кунжут мікс, мигдаль",
         weight: 370,
-        price: 360,
+        price: 399,
         type: "rolls"
     },
+
     {
         id: "427",
         image: californiaVugorRoe,
-        title: "Каліфорнія з вугрем",
+        title: "Каліфорнія з вугрем в ікрі",
         description: "Рис, айсберг, авокадо, огірок, норі, ікра масаго, вугор",
         weight: 310,
-        price: 299,
+        price: 295,
         type: "rolls"
     },
     {
         id: "428",
         image: californiaShrimpRoe,
-        title: "Каліфорнія з креветкою",
+        title: "Каліфорнія з креветкою в ікрі",
         description: "Рис, авокадо, огірок, айсберг, норі, креветка тигрова, ікра масаго",
         weight: 310,
-        price: 265,
+        price: 289,
         type: "rolls"
     },
     {
         id: "429",
         image: californiaTunaRoe,
-        title: "Каліфорнія з тунцем",
+        title: "Каліфорнія з тунцем в ікрі",
         description: "Рис, авокадо, огірок, норі, ікра масаго, лосось копчений, айсберг",
         weight: 310,
-        price: 245,
+        price: 259,
         type: "rolls"
     },
 
@@ -940,7 +963,7 @@ export const menu_items_list = [ // Меню
         title: "Макі з вугрем",
         description: "Рис, норі, вугор, соус Унагі, мигдаль",
         weight: 130,
-        price: 165,
+        price: 189,
         type: "rolls"
     },
     {
@@ -949,7 +972,7 @@ export const menu_items_list = [ // Меню
         title: "Макі з копченим лососем",
         description: "Рис, норі, лосось копчений",
         weight: 130,
-        price: 185,
+        price: 186,
         type: "rolls"
     },
     {
@@ -958,7 +981,7 @@ export const menu_items_list = [ // Меню
         title: "Макі з креветкою",
         description: "Рис, норі, креветка тигрова, огірок",
         weight: 130,
-        price: 125,
+        price: 179,
         type: "rolls"
     },
     {
@@ -967,7 +990,7 @@ export const menu_items_list = [ // Меню
         title: "Макі з лососем",
         description: "Рис, норі, лосось",
         weight: 130,
-        price: 125,
+        price: 155,
         type: "rolls"
     },
     {
@@ -976,627 +999,589 @@ export const menu_items_list = [ // Меню
         title: "Макі з тунцем",
         description: "Рис, норі, тунець",
         weight: 130,
-        price: 110,
+        price: 135,
         type: "rolls"
     },
-    
-    {
+{
         id: "435",
         image: nigiriVugor,
         title: "Нігірі з вугрем",
         description: "Рис, вугор, соус Унагі",
         weight: 50,
-        price: 60,
+        price: 92,
         type: "rolls"
     },
     {
-        id: "436",
-        image: nigiriSmokedSalmon,
-        title: "Нігірі з копченим лососем",
-        description: "Рис, лосось копчений",
-        weight: 50,
-        price: 75,
-        type: "rolls"
-    },
-    {
-        id: "437",
-        image: nigiriShrimp,
-        title: "Нігірі з креветкою",
-        description: "Рис, креветка тигрова",
-        weight: 50,
-        price: 60,
-        type: "rolls"
-    },
-    {
-        id: "438",
-        image: nigiriGrillSalmon,
-        title: "Нігірі з лососем гриль",
-        description: "Рис, лосось гриль",
-        weight: 50,
-        price: 65,
-        type: "rolls"
-    },
-    {
-        id: "439",
-        image: nigiriSalmon,
-        title: "Нігірі з лососем",
-        description: "Рис, лосось",
-        weight: 50,
-        price: 60,
-        type: "rolls"
-    },
-    {
-        id: "440",
-        image: nigiriGrillTuna,
-        title: "Нігірі з тунцем гриль",
-        description: "Рис, тунець гриль",
-        weight: 50,
-        price: 65,
-        type: "rolls"
-    },
-    {
-        id: "441",
-        image: nigiriTuna,
-        title: "Нігірі з тунцем",
-        description: "Рис, тунець",
-        weight: 50,
-        price: 60,
-        type: "rolls"
-    },
+            id: "436",
+            image: nigiriSmokedSalmon,
+            title: "Нігірі з копченим лососем",
+            description: "Рис, лосось копчений",
+            weight: 50,
+            price: 80,
+            type: "rolls"
+        },
+        {
+            id: "437",
+            image: nigiriShrimp,
+            title: "Нігірі з креветкою",
+            description: "Рис, креветка тигрова",
+            weight: 50,
+            price: 75,
+            type: "rolls"
+        },
+        {
+            id: "438",
+            image: nigiriGrillSalmon,
+            title: "Нігірі з лососем гриль",
+            description: "Рис, лосось гриль",
+            weight: 50,
+            price: 75,
+            type: "rolls"
+        },
+        {
+            id: "439",
+            image: nigiriSalmon,
+            title: "Нігірі з лососем",
+            description: "Рис, лосось",
+            weight: 50,
+            price: 75,
+            type: "rolls"
+        },
+        {
+            id: "440",
+            image: nigiriGrillTuna,
+            title: "Нігірі з тунцем гриль",
+            description: "Рис, тунець гриль",
+            weight: 50,
+            price: 75,
+            type: "rolls"
+        },
+        {
+            id: "441",
+            image: nigiriTuna,
+            title: "Нігірі з тунцем",
+            description: "Рис, тунець",
+            weight: 50,
+            price: 75,
+            type: "rolls"
+        },
 
-    {
-        id: "442",
-        image: rainbowDragon,
-        title: "Райдужний дракон",
-        description: "Рис, Норі, Вершковий сир, манго, Авокадо, Ікра масага, лосось, тунець, соус Унагі, кунжут мікс, мендаль",
-        weight: 330,
-        price: 295,
-        type: "rolls"
-    },
-    {
-        id: "444",
-        image: blackWarmTuna,
-        title: "Теплий з тунцем Black",
-        description: "Рис, Вершковий сир, груша, зеленна цибуля, тунець, кляр",
-        weight: 340,
-        price: 235,
-        type: "rolls"
-    },
-    {
-        id: "445",
-        image: blackCheddarFriedShrimp,
-        title: "Black чедер з креветкою фрі",
-        description: "Норі, Рис, Вершковий сир, манго, креветка тигрова, сир Чедер, соус спайс, мендаль",
-        weight: 330,
-        price: 245,
-        type: "rolls"
-    },
-    {
-        id: "448",
-        image: bonitoVugor,
-        title: "Боніто з вугрем",
-        description: "Рис, вершковий сир, огірок, вугор, норі",
-        weight: 290,
-        price: 229,
-        type: "rolls"
-    },
-    {
-        id: "449",
-        image: bonitoSalmon,
-        title: "Боніто з лососем",
-        description: "Рис, вершковий сир, огірок, лосось, стружка тунця, норі",
-        weight: 300,
-        price: 249,
-        type: "rolls"
-    },
-    {
-        id: "450",
-        image: bonitoTuna,
-        title: "Боніто з тунцем",
-        description: "Рис, вершковий сир, огірок, тунець, стружка тунця, норі",
-        weight: 300,
-        price: 229,
-        type: "rolls"
-    },
+        {
+            id: "442",
+            image: rainbowDragon,
+            title: "Райдужний дракон",
+            description: "Рис, Норі, Вершковий сир, манго, Авокадо, Ікра масага, лосось, тунець, соус Унагі, кунжут мікс, мендаль",
+            weight: 330,
+            price: 365,
+            type: "rolls"
+        },
+        {
+            id: "444",
+            image: blackWarmTuna,
+            title: "Теплий з тунцем Black",
+            description: "Рис, Вершковий сир, груша, зеленна цибуля, тунець, кляр",
+            weight: 340,
+            price: 235,
+            type: "rolls"
+        },
+        {
+            id: "445",
+            image: blackCheddarFriedShrimp,
+            title: "Black чедер з креветкою фрі",
+            description: "Норі, Рис, Вершковий сир, манго, креветка тигрова, сир Чедер, соус спайс, мендаль",
+            weight: 330,
+            price: 278,
+            type: "rolls"
+        },
+        {
+            id: "446",
+            image: alaskaShrimp,
+            title: "Аляска з креветкою",
+            description: "Рис, вершковий сир, огірок, авокадо, креветка тигрова, ікра масага, норі",
+            weight: 330,
+            price: 292,
+            type: "rolls"
+        }, 
+        {
+            id: "447",
+            image: alaskaSalmon,
+            title: "Аляска з лососем",
+            description: "Рис, вершковий сир, огірок, авокадо, лосось, ікра масага, норі",
+            weight: 330,
+            price: 302,
+            type: "rolls"
+        }, {
+            id: "448",
+            image: bonitoVugor,
+            title: "Боніто з вугрем",
+            description: "Рис, вершковий сир, огірок, вугор, норі",
+            weight: 290,
+            price: 229,
+            type: "rolls"
+        },
 
-    {
-        id: "451",
-        image: gunkanSmokedSalmon,
-        title: "Гункан з копченим лососем",
-        description: "Рис, Лосось копчений, Огірок",
-        weight: 50,
-        price: 105,
-        type: "rolls"
-    },
-    {
-        id: "452",
-        image: gunkanShrimp,
-        title: "Гункан з креветкою",
-        description: "Рис, креветка тигрова, Авокадо, соус спайс",
-        weight: 50,
-        price: 75,
-        type: "rolls"
-    },
-    {
-        id: "453",
-        image: gunkanSalmon,
-        title: "Гункан з лососем",
-        description: "Рис, Лосось, соус спайс",
-        weight: 50,
-        price: 75,
-        type: "rolls"
-    },
-    {
-        id: "454",
-        image: gunkanTuna,
-        title: "Гункан з тунцем",
-        description: "Рис, тунець, соус спайс",
-        weight: 50,
-        price: 60,
-        type: "rolls"
-    },
+        {
+            id: "449",
+            image: bonitoSalmon,
+            title: "Боніто з лососем",
+            description: "Рис, вершковий сир, огірок, лосось, стружка тунця, норі",
+            weight: 300,
+            price: 255,
+            type: "rolls"
+        },
+        {
+            id: "450",
+            image: bonitoTuna,
+            title: "Боніто з тунцем",
+            description: "Рис, вершковий сир, огірок, тунець, стружка тунця, норі",
+            weight: 300,
+            price: 250,
+            type: "rolls"
+        },
 
-    {
-        id: "455",
-        image: bakedRollVugor,
-        title: "Запечений рол з вугрем",
-        description: "Норі, рис, вершковий сир, вугор, манго, кунжут мікс, сир гауда",
-        weight: 340,
-        price: 285,
-        type: "rolls"
-    },
-    {
-        id: "456",
-        image: bakedRollShrimp,
-        title: "Запечений рол з креветкою",
-        description: "Норі, рис, вершковий сир, креветка тигрова, огірок, сир гауда",
-        weight: 340,
-        price: 245,
-        type: "rolls"
-    },
+        {
+            id: "451",
+            image: gunkanSmokedSalmon,
+            title: "Гункан з копченим лососем",
+            description: "Рис, Лосось копчений, Огірок",
+            weight: 50,
+            price: 106,
+            type: "rolls"
+        },
+        {
+            id: "452",
+            image: gunkanShrimp,
+            title: "Гункан з креветкою",
+            description: "Рис, креветка тигрова, Авокадо, соус спайс",
+            weight: 50,
+            price: 85,
+            type: "rolls"
+        },
+        {
+            id: "453",
+            image: gunkanSalmon,
+            title: "Гункан з лососем",
+            description: "Рис, Лосось, соус спайс",
+            weight: 50,
+            price: 77,
+            type: "rolls"
+        },
+        {
+            id: "454",
+            image: gunkanTuna,
+            title: "Гункан з тунцем",
+            description: "Рис, тунець, соус спайс",
+            weight: 50,
+            price: 77,
+            type: "rolls"
+        },
+        {
+            id: "455",
+            image: bakedRollVugor,
+            title: "Запечений рол з вугрем",
+            description: "Норі, рис, вершковий сир, вугор, манго, кунжут мікс, сир гауда",
+            weight: 340,
+            price: 314,
+            type: "rolls"
+        },
+        {
+            id: "456",
+            image: bakedRollShrimp,
+            title: "Запечений рол з креветкою",
+            description: "Норі, рис, вершковий сир, креветка тигрова, огірок, сир гауда",
+            weight: 340,
+            price: 299,
+            type: "rolls"
+        },
+
+        {
+            id: "457",
+            image: rollShrimpSmokedSalmon,
+            title: "Фірмовий Рол з креветкою та копченим лососем",
+            description: "Рис пф (н/ф), Вершковий сир, креветка тигрова, Лосось хк, Авокадо, соус спайс (н/ф), Норі",
+            weight: 380,
+            price: 350,
+            type: "rolls"
+        },
+        {
+            id: "458",
+            image: rollTunaMango,
+            title: "Фірмовий Рол з тунцем та манго",
+            description: "Рис пф (н/ф), Вершковий сир, тунець, манго, Норі, соус спайс (н/ф)",
+            weight: 330,
+            price: 255,
+            type: "rolls"
+        },
     
+        {
+            id: "459",
+            image: sweetRollKitKat,
+            title: "Солодкий рол Kit-Kat",
+            description: "Рисове тісто, вершковий сир, Kit-Kat, М&M's, банан",
+            weight: 330,
+            price: 185,
+            type: "rolls"
+        },
+        {
+            id: "460",
+            image: sweetRollOreo,
+            title: "Солодкий рол Oreo",
+            description: "Рисове тісто, вершковий сир, шоколадна паста, банан, М&M's, Oreo",
+            weight: 330,
+            price: 185,
+            type: "rolls"
+        },
+        {
+            id: "461",
+            image: sweetRollSnickers,
+            title: "Солодкий рол Snickers",
+            description: "Рисове тісто, вершковий сир, шоколадна паста, банан, Snickers, М&M's",
+            weight: 330,
+            price: 185,
+            type: "rolls"
+        },
+        {
+            id: "462",
+            image: sweetRollTwix,
+            title: "Солодкий рол Twix",
+            description: "Рисове тісто, вершковий сир, Twix, банан",
+            weight: 330,
+            price: 185,
+            type: "rolls"
+        },
     
-    {
-        id: "457",
-        image: rollShrimpSmokedSalmon,
-        title: "Фірмовий Рол з креветкою та копченим лососем",
-        description: "Рис пф (н/ф), Вершковий сир, креветка тигрова, Лосось хк, Авокадо, соус спайс (н/ф), Норі",
-        weight: 380,
-        price: 449,
-        type: "rolls"
-    },
-    {
-        id: "458",
-        image: rollTunaMango,
-        title: "Фірмовий Рол з тунцем та манго",
-        description: "Рис пф (н/ф), Вершковий сир, тунець, манго, Норі, соус спайс (н/ф)",
-        weight: 330,
-        price: 255,
-        type: "rolls"
-    },
-
-    {
-        id: "459",
-        image: sweetRollKitKat,
-        title: "Солодкий рол Kit-Kat",
-        description: "Рисове тісто, вершковий сир, Kit-Kat, М&M's, банан",
-        weight: 330,
-        price: 185,
-        type: "rolls"
-    },
-    {
-        id: "460",
-        image: sweetRollOreo,
-        title: "Солодкий рол Oreo",
-        description: "Рисове тісто, вершковий сир, шоколадна паста, банан, М&M's, Oreo",
-        weight: 330,
-        price: 185,
-        type: "rolls"
-    },
-    {
-        id: "461",
-        image: sweetRollSnickers,
-        title: "Солодкий рол Snickers",
-        description: "Рисове тісто, вершковий сир, шоколадна паста, банан, Snickers, М&M's",
-        weight: 330,
-        price: 185,
-        type: "rolls"
-    },
-    {
-        id: "462",
-        image: sweetRollTwix,
-        title: "Солодкий рол Twix",
-        description: "Рисове тісто, вершковий сир, Twix, банан",
-        weight: 330,
-        price: 185,
-        type: "rolls"
-    },
-
-    {
-        id: "463",
-        image: warmHandRollSalmon,
-        title: "Теплий Hand-Roll з лососем",
-        description: "Рис пф (н/ф), Норі, Лосось, Вершковий сир, Авокадо, соус Унагі",
-        weight: 350,
-        price: 229,
-        type: "rolls"
-    },
-
-    {
-        id: "464",
-        image: warmShrimp,
-        title: "Теплий з креветкою",
-        description: "Рис, норі, вершковий сир, креветка тигрова, огірок, ікра масаго, кляр",
-        weight: 345,
-        price: 255,
-        type: "rolls"
-    },
-    {
-        id: "466",
-        image: rollFriedShrimp,
-        title: "Фірмовий Рол з креветкою фрі",
-        description: "Рис, норі, вершковий сир, креветка тигрова фрі, авокадо, соус спайс",
-        weight: 310,
-        price: 315,
-        type: "rolls"
-    },
-    {
-        id: "467",
-        image: tunaGrillShrimpFry,
-        title: "Фірмовий тунець гриль з креветкою фрі",
-        description: "Рис, норі, вершковий сир, груша, тунець, креветка тигрова фрі, соус спайс",
-        weight: 330,
-        price: 275,
-        type: "rolls"
-    },
-    {
-        id: "468",
-        image: felixVugor,
-        title: "Фелікс з вугрем",
-        description: "Рис, норі, вершковий сир, манго, вугор, соус унагі, мигдаль",
-        weight: 340,
-        price: 310,
-        type: "rolls"
-    },
-    {
-        id: "469",
-        image: felixShrimp,
-        title: "Фелікс з креветкою",
-        description: "Рис, норі, вершковий сир, огірок, креветка тигрова, соус спайс",
-        weight: 340,
-        price: 300,
-        type: "rolls"
-    },
-    {
-        id: "470",
-        image: felixSalmon,
-        title: "Фелікс з лососем",
-        description: "Рис, норі, вершковий сир, авокадо, ікра масаго, лосось, соус спайс",
-        weight: 340,
-        price: 310,
-        type: "rolls"
-    },
-    {
-        id: "471",
-        image: felixTuna,
-        title: "Фелікс з тунцем",
-        description: "Рис, норі, вершковий сир, груша, тунець, соус спайс",
-        weight: 340,
-        price: 285,
-        type: "rolls"
-    },
+        {
+            id: "463",
+            image: warmHandRollSalmon,
+            title: "Теплий Hand-Roll з лососем",
+            description: "Рис пф (н/ф), Норі, Лосось, Вершковий сир, Авокадо, соус Унагі",
+            weight: 350,
+            price: 229,
+            type: "rolls"
+        },
     
+        {
+            id: "464",
+            image: warmShrimp,
+            title: "Теплий з креветкою",
+            description: "Рис, норі, вершковий сир, креветка тигрова, огірок, ікра масаго, кляр",
+            weight: 345,
+            price: 255,
+            type: "rolls"
+        },
+        {
+            id: "466",
+            image: rollFriedShrimp,
+            title: "Фірмовий Рол з креветкою фрі",
+            description: "Рис, норі, вершковий сир, креветка тигрова фрі, авокадо, соус спайс",
+            weight: 310,
+            price: 360,
+            type: "rolls"
+        },
+        {
+            id: "467",
+            image: tunaGrillShrimpFry,
+            title: "Фірмовий тунець гриль з креветкою фрі",
+            description: "Рис, норі, вершковий сир, груша, тунець, креветка тигрова фрі, соус спайс",
+            weight: 330,
+            price: 275,
+            type: "rolls"
+        },
     {
-        id: "472",
-        image: philadelphiaGrillPear,
-        title: "Філадельфія гриль з грушею",
-        description: "Рис, норі, вершковий сир, груша, лосось, соус Унагі, кунжут мікс, мигдаль",
-        weight: 310,
-        price: 255,
-        type: "rolls"
-    },
+            id: "468",
+            image: felixVugor,
+            title: "Фелікс з вугрем",
+            description: "Рис, норі, вершковий сир, манго, вугор, соус унагі, мигдаль",
+            weight: 340,
+            price: 321,
+            type: "rolls"
+        },
+        {
+            id: "469",
+            image: felixShrimp,
+            title: "Фелікс з креветкою",
+            description: "Рис, норі, вершковий сир, огірок, креветка тигрова, соус спайс",
+            weight: 340,
+            price: 329,
+            type: "rolls"
+        },
+        {
+            id: "470",
+            image: felixSalmon,
+            title: "Фелікс з лососем",
+            description: "Рис, норі, вершковий сир, авокадо, ікра масаго, лосось, соус спайс",
+            weight: 340,
+            price: 311,
+            type: "rolls"
+        },
+        {
+            id: "471",
+            image: felixTuna,
+            title: "Фелікс з тунцем",
+            description: "Рис, норі, вершковий сир, груша, тунець, соус спайс",
+            weight: 340,
+            price: 299,
+            type: "rolls"
+        },    
     {
-        id: "473",
-        image: philadelphiaAvocado,
-        title: "Філадельфія з авокадо",
-        description: "Рис, норі, вершковий сир, авокадо, ікра масага, лосось",
-        weight: 320,
-        price: 265,
-        type: "rolls"
-    },
-    {
-        id: "474",
-        image: philadelphiaVugorSesame,
-        title: "Філадельфія з вугрем в кунжуті",
-        description: "Рис, норі, вершковий сир, огірок, вугор",
-        weight: 310,
-        price: 249,
-        type: "rolls"
-    },
-    {
-        id: "475",
-        image: philadelphiaVugor,
-        title: "Філадельфія з вугрем",
-        description: "Рис, норі, вершковий сир, огірок, вугор, соус Унагі, кунжут мікс, мигдаль",
-        weight: 310,
-        price: 275,
-        type: "rolls"
-    },
-    {
-        id: "476",
-        image: philadelphiaSmokedSalmon,
-        title: "Філадельфія з копченим лососем",
-        description: "Рис, норі, вершковий сир, огірок, лосось копчений",
-        weight: 310,
-        price: 310,
-        type: "rolls"
-    },
-    {
-        id: "477",
-        image: philadelphiaCrab,
-        title: "Філадельфія з крабом",
-        description: "Рис, норі, вершковий сир, сніжний краб, огірок, лосось",
-        weight: 330,
-        price: 245,
-        type: "rolls"
-    },
-    {
-        id: "478",
-        image: philadelphiaShrimpSesame,
-        title: "Філадельфія з креветкою в кунжуті",
-        description: "Рис, норі, вершковий сир, огірок, креветка тигрова, кунжут мікс",
-        weight: 310,
-        price: 229,
-        type: "rolls"
-    },
-    {
-        id: "480",
-        image: philadelphiaShrimp,
-        title: "Філадельфія з креветкою",
-        description: "Рис, норі, вершковий сир, огірок, айсберг, креветка тигрова",
-        weight: 310,
-        price: 285,
-        type: "rolls"
-    },
-    {
-        id: "481",
-        image: philadelphiaSalmonSesame,
-        title: "Філадельфія з лососем в кунжуті",
-        description: "Рис, норі, вершковий сир, огірок, лосось, кунжут мікс",
-        weight: 310,
-        price: 245,
-        type: "rolls"
-    },
-    {
-        id: "482",
-        image: philadelphiaMango,
-        title: "Філадельфія з манго",
-        description: "Рис, норі, вершковий сир, манго, ікра масага, лосось",
-        weight: 320,
-        price: 260,
-        type: "rolls"
-    },
-    {
-        id: "483",
-        image: philadelphiaTunaSesame,
-        title: "Філадельфія з тунцем в кунжуті",
-        description: "Рис, норі, вершковий сир, огірок, тунець, кунжут мікс",
-        weight: 310,
-        price: 210,
-        type: "rolls"
-    },
-    {
-        id: "484",
-        image: philadelphiaTuna,
-        title: "Філадельфія з тунцем",
-        description: "Рис, норі, вершковий сир, огірок, тунець",
-        weight: 310,
-        price: 255,
-        type: "rolls"
-    },
-    {
-        id: "485",
-        image: philadelphiaClassic,
-        title: "Філадельфія класична",
-        description: "Рис, норі, вершковий сир, огірок, лосось",
-        weight: 310,
-        price: 285,
-        type: "rolls"
-    },
-
+            id: "472",
+            image: philadelphiaGrillPear,
+            title: "Філадельфія гриль з грушею",
+            description: "Рис, норі, вершковий сир, груша, лосось, соус Унагі, кунжут мікс, мигдаль",
+            weight: 310,
+            price: 255,
+            type: "rolls"
+        },
+        {
+            id: "473",
+            image: philadelphiaAvocado,
+            title: "Філадельфія з авокадо",
+            description: "Рис, норі, вершковий сир, авокадо, ікра масага, лосось",
+            weight: 320,
+            price: 292,
+            type: "rolls"
+        },
+        {
+            id: "474",
+            image: philadelphiaVugorSesame,
+            title: "Філадельфія з вугрем в кунжуті",
+            description: "Рис, норі, вершковий сир, огірок, вугор",
+            weight: 310,
+            price: 276,
+            type: "rolls"
+        },
+        {
+            id: "475",
+            image: philadelphiaVugor,
+            title: "Філадельфія з вугрем",
+            description: "Рис, норі, вершковий сир, огірок, вугор, соус Унагі, кунжут мікс, мигдаль",
+            weight: 310,
+            price: 318,
+            type: "rolls"
+        },
+        {
+            id: "476",
+            image: philadelphiaSmokedSalmon,
+            title: "Філадельфія з копченим лососем",
+            description: "Рис, норі, вершковий сир, огірок, лосось копчений",
+            weight: 310,
+            price: 302,
+            type: "rolls"
+        },
+        {
+            id: "477",
+            image: philadelphiaCrab,
+            title: "Філадельфія з крабом",
+            description: "Рис, норі, вершковий сир, сніжний краб, огірок, лосось",
+            weight: 330,
+            price: 289,
+            type: "rolls"
+        },
+        {
+            id: "478",
+            image: philadelphiaShrimpSesame,
+            title: "Філадельфія з креветкою в кунжуті",
+            description: "Рис, норі, вершковий сир, огірок, креветка тигрова, кунжут мікс",
+            weight: 310,
+            price: 250,
+            type: "rolls"
+        },
+        {
+            id: "480",
+            image: philadelphiaShrimp,
+            title: "Філадельфія з креветкою",
+            description: "Рис, норі, вершковий сир, огірок, айсберг, креветка тигрова",
+            weight: 310,
+            price: 301,
+            type: "rolls"
+        },
+        {
+            id: "481",
+            image: philadelphiaSalmonSesame,
+            title: "Філадельфія з лососем в кунжуті",
+            description: "Рис, норі, вершковий сир, огірок, лосось, кунжут мікс",
+            weight: 310,
+            price: 247,
+            type: "rolls"
+        },
+        {
+            id: "482",
+            image: philadelphiaMango,
+            title: "Філадельфія з манго",
+            description: "Рис, норі, вершковий сир, манго, ікра масага, лосось",
+            weight: 320,
+            price: 289,
+            type: "rolls"
+        },
+        {
+            id: "483",
+            image: philadelphiaTunaSesame,
+            title: "Філадельфія з тунцем в кунжуті",
+            description: "Рис, норі, вершковий сир, огірок, тунець, кунжут мікс",
+            weight: 310,
+            price: 240,
+            type: "rolls"
+        },
+        {
+            id: "484",
+            image: philadelphiaTuna,
+            title: "Філадельфія з тунцем",
+            description: "Рис, норі, вершковий сир, огірок, тунець",
+            weight: 310,
+            price: 280,
+            type: "rolls"
+        },
+        {
+            id: "485",
+            image: philadelphiaClassic,
+            title: "Філадельфія класична",
+            description: "Рис, норі, вершковий сир, огірок, лосось",
+            weight: 310,
+            price: 292,
+            type: "rolls"
+        },
+        {
+            id: "486",
+            image: signatureRollVugor,
+            title: "Фірмовий рол з вугрем та креветкою",
+            description: "Рис, норі, вершковий сир, креветка тигрова, зелена цибуля, соус Унагі, кунжут мікс, мигдаль",
+            weight: 330,
+            price: 360,
+            type: "rolls"
+        },  {
+            id: "487",
+            image: signatureRollFriedShrimp,
+            title: "Фірмовий рол з креветкою фрі",
+            description: "Рис, норі, вершковий сир, креветка тигрова, авокадо, ікра масага, огірок, лосось",
+            weight: 310,
+            price: 360,
+            type: "rolls"
+        },
+        {
+            id: "488",
+            image: futomakiVugor,
+            title: "Футомак з вугрем",
+            description: "Рис, норі, вершковий сир, манго, вугор, ікра масага, соус Унагі, кунжут мікс, мигдаль",
+            weight: 310,
+            price: 249,
+            type: "rolls"
+        },
+        {
+            id: "489",
+            image: futomakiFriedSalmon,
+            title: "Футомак з смаженим лососем",
+            description: "Рис, норі, вершковий сир, огірок, ікра масага, лосось, соус Унагі, кунжут мікс, мигдаль",
+            weight: 310,
+            price: 250,
+            type: "rolls"
+        },
+        {
+            id: "490",
+            image: futomakiSmokedSalmon,
+            title: "Футомак з копченим лососем",
+            description: "Рис, норі, вершковий сир, авокадо, ікра масага, лосось копчений",
+            weight: 310,
+            price: 256,
+            type: "rolls"
+        },
+        {
+            id: "491",
+            image: futomakiSalmon,
+            title: "Футомак з лососем",
+            description: "Рис, норі, вершковий сир, лосось, авокадо, ікра масага",
+            weight: 310,
+            price: 253,
+            type: "rolls"
+        },
+        {
+            id: "492",
+            image: futomakiTuna,
+            title: "Футомак з тунцем",
+            description: "Рис, норі, вершковий сир, груша, тунець, ікра масага",
+            weight: 310,
+            price: 250,
+            type: "rolls"
+        },
+        {
+            id: "493",
+            image: futomakiFriedShrimp,
+            title: "Футомак з креветкою",
+            description: "Рис, норі, вершковий сир, огірок, авокадо, ікра масага, креветка тигрова",
+            weight: 310,
+            price: 260,
+            type: "rolls"
+        },
+        {
+            id: "494",
+            image: redDragon,
+            title: "Червоний дракон",
+            description: "Рис, норі, вершковий сир, авокадо, ікра масаго, вугор, лосось",
+            weight: 330,
+            price: 330,
+            type: "rolls"
+        },
+        {
+            id: "500",
+            image: nuggets,
+            title: "Нагетси фрі",
+            description: "Нагетси",
+            weight: 170,
+            price: 130,
+            type: "fri"
+        },
+        {
+            id: "501",
+            image: chiken_wing,
+            title: "Курячі Крильця фрі",
+            description: "Куряче крило фрі",
+            weight: 250,
+            price: 145,
+            type: "fri"
+        },
+        {
+            id: "502",
+            image: stripsy,
+            title: "Курячі стріпси",
+            description: "Курячі стріпси фрі",
+            weight: 160,
+            price: 150,
+            type: "fri"
+        },
+        {
+            id: "503",
+            image: onion_rings,
+            title: "Кільця Кальмара фрі",
+            description: "Кільця Кальмара",
+            weight: 160,
+            price: 160,
+            type: "fri"
+        },
+        {
+            id: "504",
+            image: onion_rings,
+            title: "Цибулеві кільця",
+            description: "Цибулеві кільця фрі",
+            weight: 140,
+            price: 99,
+            type: "fri"
+        },
+        {
+            id: "505",
+            image: cheese_sticks,
+            title: "Сирні палички ",
+            description: "Сирні палички фрі",
+            weight: 200,
+            price: 240,
+            type: "fri"
+        },
+        {
+            id: "506",
+            image: free_set,
+            title: "Фрі сет",
+            description: "Куряче крило фрі, курячі стріпси фрі, нагетси фрі, цибулеві кільця фрі",
+            weight: 600,
+            price: 499,
+            type: "fri"
+        },
     
-    {
-        id: "486",
-        image: signatureRollVugor,
-        title: "Фірмовий рол з вугрем та креветкою",
-        description: "Рис, норі, вершковий сир, креветка тигрова, зелена цибуля, соус Унагі, кунжут мікс, мигдаль",
-        weight: 330,
-        price: 330,
-        type: "rolls"
-    },
-    {
-        id: "487",
-        image: signatureRollFriedShrimp,
-        title: "Фірмовий рол з креветкою фрі",
-        description: "Рис, норі, вершковий сир, креветка тигрова, авокадо, ікра масага, огірок, лосось",
-        weight: 310,
-        price: 315,
-        type: "rolls"
-    },
-
-    {
-        id: "488",
-        image: futomakiVugor,
-        title: "Футомак з вугрем",
-        description: "Рис, норі, вершковий сир, манго, вугор, ікра масага, соус Унагі, кунжут мікс, мигдаль",
-        weight: 310,
-        price: 239,
-        type: "rolls"
-    },
-    {
-        id: "489",
-        image: futomakiFriedSalmon,
-        title: "Футомак з смаженим лососем",
-        description: "Рис, норі, вершковий сир, огірок, ікра масага, лосось, соус Унагі, кунжут мікс, мигдаль",
-        weight: 310,
-        price: 199,
-        type: "rolls"
-    },
-    {
-        id: "490",
-        image: futomakiSmokedSalmon,
-        title: "Футомак з копченим лососем",
-        description: "Рис, норі, вершковий сир, авокадо, ікра масага, лосось копчений",
-        weight: 310,
-        price: 255,
-        type: "rolls"
-    },
-    {
-        id: "491",
-        image: futomakiSalmon,
-        title: "Футомак з лососем",
-        description: "Рис, норі, вершковий сир, лосось, авокадо, ікра масага",
-        weight: 310,
-        price: 245,
-        type: "rolls"
-    },
-    {
-        id: "492",
-        image: futomakiTuna,
-        title: "Футомак з тунцем",
-        description: "Рис, норі, вершковий сир, груша, тунець, ікра масага",
-        weight: 310,
-        price: 210,
-        type: "rolls"
-    },
-    {
-        id: "493",
-        image: futomakiFriedShrimp,
-        title: "Футомак з креветкою",
-        description: "Рис, норі, вершковий сир, огірок, авокадо, ікра масага, креветка тигрова",
-        weight: 310,
-        price: 235,
-        type: "rolls"
-    },       
-
-    {
-        id: "494",
-        image: redDragon,
-        title: "Червоний дракон",
-        description: "Рис, норі, вершковий сир, авокадо, ікра масаго, вугор, лосось",
-        weight: 330,
-        price: 325,
-        type: "rolls"
-    },
-
-    {
-        id: "400",
-        image: handroll_vugor,
-        title: "Хендрол з вугрем",
-        description: "Норі, рис, вершковий сир, вугор, манго, айсберг, соус Унагі, соус спайс",
-        weight: 350,
-        price: 220.00,
-        type: "rolls"
-    },
-    {
-        id: "401",
-        image: handroll_krewetka,
-        title: "Хендрол з креветкою",
-        description: "Норі, рис, вершковий сир, сир Чеддер, креветка тигрова, авокадо, айсберг, соус Унагі, соус спайс",
-        weight: 350,
-        price: 255,
-        type: "rolls"
-    },
-    {
-        id: "402",
-        image: handroll_losos,
-        title: "Хендрол з лососем",
-        description: "Норі, рис, вершковий сир, сир Чеддер, авокадо, лосось, айсберг, соус Унагі, соус спайс",
-        weight: 350,
-        price: 229,
-        type: "rolls"
-    },
-    {
-        id: "403",
-        image: handroll_tuna,
-        title: "Хендрол з тунцем",
-        description: "Норі, рис, вершковий сир, груша, сир Чеддер, айсберг, соус Унагі, соус спайс, тунець",
-        weight: 350,
-        price: 205,
-        type: "rolls"
-    },
-    {
-        id: "404",
-        image: handroll_krewetka_free,
-        title: "Хендрол з креветкою фрі",
-        description: "Рис, норі, соус спайс, соус унагі, креветка тигрова, груша, айсберг",
-        weight: 350,
-        price: 275,
-        type: "rolls"
-    },
-
-
-    {
-        id: "500",
-        image: nuggets,
-        title: "Нагетси фрі",
-        description: "Нагетси",
-        weight: 170,
-        price: 100,
-        type: "fri"
-    },
-    {
-        id: "501",
-        image: chiken_wing,
-        title: "Курячі Крильця фрі",
-        description: "Куряче крило фрі",
-        weight: 250,
-        price: 135,
-        type: "fri"
-    },
-    {
-        id: "502",
-        image: stripsy,
-        title: "Курячі стріпси",
-        description: "Курячі стріпси фрі",
-        weight: 160,
-        price: 95,
-        type: "fri"
-    },
-    {
-        id: "503",
-        image: onion_rings,
-        title: "Кільця Кальмара фрі",
-        description: "Кільця Кальмара",
-        weight: 160,
-        price: 140,
-        type: "fri"
-    },
-    {
-        id: "504",
-        image: onion_rings,
-        title: "Цибулеві кільця",
-        description: "Цибулеві кільця фрі",
-        weight: 140,
-        price: 85,
-        type: "fri"
-    },
-    {
-        id: "505",
-        image: cheese_sticks,
-        title: "Сирні палички ",
-        description: "Сирні палички фрі",
-        weight: 200,
-        price: 200,
-        type: "fri"
-    },
-    {
-        id: "506",
-        image: free_set,
-        title: "Фрі сет",
-        description: "Куряче крило фрі, курячі стріпси фрі, нагетси фрі, цибулеві кільця фрі",
-        weight: 600,
-        price: 420,
-        type: "fri"
-    },
 ]
