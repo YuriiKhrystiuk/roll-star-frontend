@@ -9,7 +9,8 @@ const categories = [
   { id: 'soups', label: 'Супи', icon: assets.soup },
   { id: 'bouly', label: 'Боули', icon: assets.boul },
   { id: 'fishburger', label: 'Фіш Доги<br />Бургери', icon: assets.fishburger },
-  { id: 'fri', label: 'Фрі', icon: assets.fri }
+  { id: 'fri', label: 'Фрі', icon: assets.fri },
+  { id: 'combo', label: 'Комбо', icon: assets.combo }
 ];
 
 const MenuNav = ({ category, setGlobalCategory }) => {

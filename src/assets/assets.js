@@ -36,6 +36,7 @@ import soup_dropdown from "../assets/soup_menu_dropdown.svg";
 import boul_dropdown from "../assets/boul_menu_dropdown.svg";
 import fishdog_dropdown from "../assets/fishdog_menu_dropdown.svg";
 import fri_dropdown from "../assets/fri_dropdown.svg"
+import combo_dropdown from "../assets/combo_dropdown.svg"
 
 // Pizza Menu
 import caprichoza from "../assets/caprichoza.png";
@@ -190,6 +191,15 @@ import cheese_sticks from "../assets/сирні-палички.jpg"
 import nuggets from "../assets/Нагетси.png"
 import free_set from "../assets/Фрі Сет.png"
 
+// Kombo Menu
+import combo from "../assets/food_combo.svg";
+import combo_1 from "../assets/combo_1.png"
+import combo_2 from "../assets/combo_2.png"
+import combo_3 from "../assets/combo_3.png"
+import combo_4 from "../assets/combo_4.png"
+import combo_5 from "../assets/combo_5.png"
+
+
 // Slider Images
 import slider_img3 from "../assets/slider3.jpg"
 import slider_img5 from "../assets/slider5.jpg"
@@ -291,7 +301,8 @@ export const assets = {
     sushi_roll,
     rolls,
     fishdog,
-    fri
+    fri,
+    combo
 }
 
 export const cart_assets = {
@@ -361,6 +372,12 @@ export const dropdown = [
         image: fri_dropdown,
         name: "Фрі Меню",
         type: "fri"
+    },
+    {
+        _id: "8",
+        image: combo_dropdown,
+        name: "Комбо Меню",
+        type: "combo"
     }
 ]
 
@@ -1584,4 +1601,51 @@ export const menu_items_list = [ // Menu
             type: "fri"
         },
     
+
+
+        {
+            id: "600",
+            image: combo_1,
+            title: "Комбо 1",
+            description: "Маргарита, 4 Сира, М'ясна",
+            weight: 1900,
+            price: 649,
+            type: "combo"
+        },
+        {
+            id: "601",
+            image: combo_2,
+            title: "Комбо 2",
+            description: "Цезар, Капрічоза, Мисливська",
+            weight: 1900,
+            price: 658,
+            type: "combo"
+        },
+        {
+            id: "602",
+            image: combo_3,
+            title: "Комбо 3",
+            description: "Піца Прошуто і Манго, Морепродукти, Кокакола",
+            weight: 1300,
+            price: 561,
+            type: "combo"
+        },
+        {
+            id: "603",
+            image: combo_4,
+            title: "Комбо 4",
+            description: "Цезар, Філадельфія з Копченим Лососем",
+            weight: 960,
+            price: 522,
+            type: "combo"
+        },
+        {
+            id: "604",
+            image: combo_5,
+            title: "Комбо 5",
+            description: "Салямі, Гавайська, Діабло, Кокакола",
+            weight: 1950,
+            price: 699,
+            type: "combo"
+        }
 ]
