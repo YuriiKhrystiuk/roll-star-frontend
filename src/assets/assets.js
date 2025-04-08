@@ -829,7 +829,7 @@ export const menu_items_list = [ // Menu
     {
         id: "416",
         image: blackPhiladelphiaPearTuna,
-        title: "Black Філадельфія гриль з тунцем",
+        title: "Black Філадельфія з грушею та тунцем гриль",
         description: "Рис, норі, вершковий сир, груша, соус унагі, кунжут мікс, мигдаль, тунець",
         weight: 310,
         price: 260,
@@ -1145,7 +1145,7 @@ export const menu_items_list = [ // Menu
             title: "Гункан з копченим лососем",
             description: "Рис, Лосось копчений, Огірок",
             weight: 50,
-            price: 106,
+            price: 85,
             type: "rolls"
         },
         {
@@ -1281,10 +1281,10 @@ export const menu_items_list = [ // Menu
         {
             id: "467",
             image: tunaGrillShrimpFry,
-            title: "Фірмовий тунець гриль з креветкою фрі",
+            title: "Філадельфія тунець гриль з креветкою фрі та грушею",
             description: "Рис, норі, вершковий сир, груша, тунець, креветка тигрова фрі, соус спайс",
             weight: 330,
-            price: 275,
+            price: 297,
             type: "rolls"
         },
     {
@@ -1329,7 +1329,7 @@ export const menu_items_list = [ // Menu
             title: "Філадельфія з грушею",
             description: "Рис, норі, вершковий сир, груша, лосось, соус Унагі, кунжут мікс, мигдаль",
             weight: 310,
-            price: 255,
+            price: 292,
             type: "rolls"
         },
         {
