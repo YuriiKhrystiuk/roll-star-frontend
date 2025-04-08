@@ -412,7 +412,7 @@ export const menu_items_list = [ // Menu
     {
         id: "5",
         image: mazeratti,
-        title: "4 Сира Мазераті",
+        title: "4 Сира",
         description: "Тісто для піц, моцарела, сир гауда, сир дорблю, вершки, пармезан",
         weight: 650,
         price: 260,
@@ -494,16 +494,16 @@ export const menu_items_list = [ // Menu
         id: "51",
         image: set2,
         title: "Сет №2",
-        description: 'Філадельфія з вугрем, Філадельфія класична, Філадельфія гриль з грушею, Філадельфія з тунцем',
+        description: 'Філадельфія з вугрем, Філадельфія класична, Філадельфія з грушею, Філадельфія з тунцем',
         weight: 970,
-        price: 1061,
+        price: 1102,
         type: "sushi"
     },
     {
         id: "52",
         image: set3,
         title: "Сет №3",
-        description: 'Black Філадельфія гриль з авокадо, Black Філадельфія гриль з манго, Black Філадельфія гриль з тунцем, Філадельфія гриль з грушею',
+        description: 'Black Філадельфія гриль з авокадо, Black Філадельфія гриль з манго, Black Філадельфія гриль з тунцем, Філадельфія з грушею',
         weight: 1030,
         price: 1061,
         type: "sushi"
@@ -530,7 +530,7 @@ export const menu_items_list = [ // Menu
         id: "55",
         image: set6,
         title: "Сет №6",
-        description: 'Філадельфія з крабом, Футомак з вугрем, Філадельфія гриль з грушею, Black чеддер з смаженим лососем',
+        description: 'Філадельфія з крабом, Футомак з вугрем, Філадельфія з грушею, Black чеддер з смаженим лососем',
         weight: 1065,
         price: 950,
         type: "sushi"
@@ -557,7 +557,7 @@ export const menu_items_list = [ // Menu
         id: "58",
         image: rollset_home,
         title: "Хот-сет №9",
-        description: 'Теплий з вугрем, Теплий з креветкою фрі, Black Теплий з лососем, Black теплий з копченим лососем',
+        description: 'Темпура з вугрем, Темпура з креветкою фрі, Black Темпура з лососем, Black Темпура з копченим лососем',
         weight: 1100,
         price: 1100,
         type: "sushi"
@@ -792,19 +792,19 @@ export const menu_items_list = [ // Menu
     {
             id: "412",
             image: blackWarmSmokedSalmon,
-            title: "Black теплий з копченим лососем",
+            title: "Black Темпура з копченим лососем",
             description: "Рис, вершковий сир, манго, лосось копчений, соус спайс, кляр",
             weight: 340,
-            price: 275,
+            price: 276,
             type: "rolls"
         },
         {
             id: "413",
             image: blackWarmSalmon,
-            title: "Black теплий з лососем",
+            title: "Black Темпура з лососем",
             description: "Норі, рис, вершковий сир, лосось, авокадо, ікра масаго, зелена цибуля, кляр",
             weight: 340,
-            price: 265,
+            price: 299,
             type: "rolls"
         },
 
@@ -1078,10 +1078,10 @@ export const menu_items_list = [ // Menu
         {
             id: "444",
             image: blackWarmTuna,
-            title: "Теплий з тунцем Black",
+            title: "Темпура з тунцем Black",
             description: "Рис, Вершковий сир, груша, зеленна цибуля, тунець, кляр",
             weight: 340,
-            price: 235,
+            price: 262,
             type: "rolls"
         },
         {
@@ -1253,7 +1253,7 @@ export const menu_items_list = [ // Menu
         {
             id: "463",
             image: warmHandRollSalmon,
-            title: "Теплий Hand-Roll з лососем",
+            title: "Темпура Hand-Roll з лососем",
             description: "Рис пф (н/ф), Норі, Лосось, Вершковий сир, Авокадо, соус Унагі",
             weight: 350,
             price: 229,
@@ -1263,10 +1263,10 @@ export const menu_items_list = [ // Menu
         {
             id: "464",
             image: warmShrimp,
-            title: "Теплий з креветкою",
+            title: "Темпура з креветкою",
             description: "Рис, норі, вершковий сир, креветка тигрова, огірок, ікра масаго, кляр",
             weight: 345,
-            price: 255,
+            price: 265,
             type: "rolls"
         },
         {
@@ -1326,7 +1326,7 @@ export const menu_items_list = [ // Menu
     {
             id: "472",
             image: philadelphiaGrillPear,
-            title: "Філадельфія гриль з грушею",
+            title: "Філадельфія з грушею",
             description: "Рис, норі, вершковий сир, груша, лосось, соус Унагі, кунжут мікс, мигдаль",
             weight: 310,
             price: 255,
