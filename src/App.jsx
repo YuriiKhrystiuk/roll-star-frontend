@@ -10,7 +10,6 @@ import Reviews from './components/Reviews/Reviews';
 import CartProvider from './components/OpenCart/CartContext';
 
 // import config from './config.js'
-
 const App = () => {
 
   return (
