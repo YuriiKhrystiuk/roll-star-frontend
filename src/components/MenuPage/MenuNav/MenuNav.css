@@ -30,7 +30,7 @@
   }
 
   .menunav {
-    margin: 0.5em auto;
+    margin: 0em auto;
   }
   
   .dish_nav {
@@ -62,9 +62,9 @@
   
   @media (max-width: 930px) {
     .menunav-container {
-      grid-template-columns: repeat(3 , 1fr);
-      gap: 2em;
-      margin-top: 0.5em;
+      grid-template-columns: repeat(4 , 1fr);
+      gap: 0em;
+      margin-top: 0em;
     }
   }
 
@@ -73,7 +73,7 @@
     .menunav-container {
       grid-template-columns: repeat(3, 1fr);
       gap: 0em;
-      margin-top: 0.5em;
+      /* margin-top: 0.5em; */
     }
   
     .menunav-container img {
@@ -81,10 +81,11 @@
         margin: 0em 2em;
     }
     .dish_nav{
-        margin: 0.5em 0em;
+        margin: 0.3em 0em;
     }
     .dish_nav p {
       font-size: 0.9em;
+      font-weight: bold;
     }
   }
   

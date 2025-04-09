@@ -4,6 +4,7 @@ import Logo from '../NavBar/Logo/Logo';
 import Navigation from './Navigation/Navigation';
 import Cart from './Cart/Cart';
 import { Link } from 'react-router-dom';
+import { cart_assets } from '../../assets/assets';
 
 const NavBar = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
@@ -17,7 +18,7 @@ const NavBar = () => {
   };
 
   return (
-    <div>
+    <div className={style.header}>
       <div className={style.head}>
         <div className={style.nav_bar}>
           <div className={style.logo_block}>
@@ -33,6 +34,12 @@ const NavBar = () => {
       </div>
       
       <div className={`${style.burger_menu} ${isMenuOpen ? style.open : ''}`}>
+        <img
+          src={cart_assets.cross}
+          alt="Закрити"
+          className={style.close_icon}
+          onClick={closeMenu}
+        />
         <ul className={style.burger_nav}>
           <Link to='/' onClick={closeMenu}><li>Головна</li></Link>
           <hr />

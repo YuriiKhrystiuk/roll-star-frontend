@@ -8,6 +8,8 @@ import MainPage from './components/MainPage/MainPage';
 import AboutUsPage from './components/AboutUsPage/AboutUsPage';
 import Reviews from './components/Reviews/Reviews';
 import CartProvider from './components/OpenCart/CartContext';
+import style from './App.module.css'
+import ScrollToTop from './ScrollToTop';
 
 // import config from './config.js'
 const App = () => {
@@ -16,7 +18,10 @@ const App = () => {
     <div>
       <CartProvider>
         <Router>
-          <NavBar />
+          <ScrollToTop />
+          <div className={style.header_style}>
+            <NavBar />
+          </div>
 
           <Routes>
     
