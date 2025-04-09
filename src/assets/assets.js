@@ -1022,7 +1022,7 @@ export const menu_items_list = [ // Menu
         type: "rolls"
     },
     {
-        id: "426",
+        id: "4265",
         image: bronzeDragon,
         title: "Бронзовий дракон",
         description: "Рис, Вершковий сир, манго, Ікра масага, вугор, сніжний краб, соус Унагі, кунжут білий+чорний, мендаль",
