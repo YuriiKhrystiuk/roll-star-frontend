@@ -45,8 +45,8 @@ const OrderedDishes = ({ orderedItems }) => {
                       className='minus'
                       onClick={() => decreaseQuantity(item.id)}
                     />
-                    <div className="quantity-container">
-                      <h3 className='quantity'>{item.quantity}</h3>
+                    <div className={style.quantity_container}>
+                      <h3 className={style.quantity}>{item.quantity}</h3>
                     </div>
                     <img
                       src={assets.plus}

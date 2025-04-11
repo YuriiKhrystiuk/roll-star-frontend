@@ -61,7 +61,16 @@
 }
 
 .count img{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5em; 
     cursor: pointer;
+}
+.three img{
+    margin-top: 0.2em;
+    width: 1.9em !important;
+    height: 1.9em !important;
 }
 
 .first{
@@ -88,16 +97,25 @@
 
 .three{
     display: flex;
+    align-items: center;
     justify-content: space-between;
+}
+.quantity_container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0em 0.5em;
 }
 
 .count{
     display: flex;
 }
 
+
 .ordered_food_img{
     max-width: 10em;
     height: auto;
+    background-color: #0e0e0e;
 }
 .ordered_food_img_center{
     display: flex;
@@ -133,6 +151,9 @@
 .grey{
     color: lightgray;
 }
+
+
+
 
 @media (max-width: 1450px){
     .ordered_food{
@@ -180,8 +201,8 @@
     }
     .three img{
         margin-top: 0.2em;
-        width: 1.2em !important;
-        height: 1.2em !important;
+        width: 1.5em !important;
+        height: 1.5em !important;
     }
     .dish{
         display: flex;
@@ -204,6 +225,12 @@
         padding-top: 0.3em;
     }
 
+    .quantity_container{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin: 0em 0.5em;
+    }
 
     .grey{
         font-size: 0.7em;
@@ -215,5 +242,7 @@
     .second{
         margin-top: 1em;
     }
+
+    
   }
 
