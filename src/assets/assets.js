@@ -18,8 +18,8 @@ import rolls from "../assets/rolls.png";
 import fishdog from "../assets/fishdog.png";
 import fri from "../assets/fri.svg"
 import cross from "../assets/cross.svg";
-import minus from "../assets/minus.png"
-import plus from "../assets/plus.png"
+import minus from "../assets/minus.svg"
+import plus from "../assets/plus.svg"
 import instagram from "../assets/instagram.svg";
 import gmail from "../assets/gmail.svg";
 
@@ -1398,7 +1398,7 @@ export const menu_items_list = [ // Menu
             price: 297,
             type: "rolls"
         },
-    {
+        {
             id: "468",
             image: felixVugor,
             title: "Фелікс з вугрем",

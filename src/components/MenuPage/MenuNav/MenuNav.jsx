@@ -2,7 +2,7 @@ import React, { useEffect } from 'react';
 import { assets } from '../../../assets/assets';
 import './MenuNav.css';
 
-const categories = [
+export const categories = [
   { id: 'rolls', label: 'Роли', icon: assets.sushi_roll },
   { id: 'sushi', label: 'Сети', icon: assets.set_rolls },
   { id: 'pizza', label: 'Піца', icon: assets.pizza },
@@ -24,6 +24,7 @@ const MenuNav = ({ category, setGlobalCategory }) => {
 
   return (
     <div className='menunav'>
+
       <div className='menunav-container'>
         {categories.map((cat) => (
           <div key={cat.id} className='dish_nav'>
@@ -37,6 +38,25 @@ const MenuNav = ({ category, setGlobalCategory }) => {
           </div>
         ))}
       </div>
+
+        
+      <div className='menunav_container_mobile'>
+        <br /><br /><br /><br />
+        {categories.map((cat) => (
+          <div key={cat.id} className={category === cat.id ? 'dish_nav_mobile clicked' : 'dish_nav_mobile'}>
+            <div
+              className={category === cat.id ? 'category-item clicked' : 'category-item'}
+              onClick={() => handleCategoryChange(cat.id)}
+            >
+              <img className='mobile_img_cat' src={cat.icon} alt={`${cat.label} icon`} />
+              <p className={category === cat.id ? 'category-item clicked' : 'category-item'} dangerouslySetInnerHTML={{ __html: cat.label }}></p>
+            </div>
+          </div>
+        ))}
+        <br /><br /><br /><br />
+      </div>
+      
+
     </div>
   );
 };

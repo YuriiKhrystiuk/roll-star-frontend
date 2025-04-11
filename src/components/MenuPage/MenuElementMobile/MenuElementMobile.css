@@ -1,0 +1,115 @@
+.card{
+    width: 90%;
+    display: flex;
+    flex-direction: row;
+    margin: 1em 0.5em 0em 0.5em;
+    padding: 1em 0.1em 1em 1em;
+    background-color: #0B0B0B;
+}
+
+.first_menu_element_mobile{
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+}
+.first_img{
+    width: 13em;
+    height: auto;
+}
+
+.numbers_mobile{
+    display: flex;
+    flex-direction: row;
+    padding-top: 0.3em;
+}
+
+
+.add_or_not{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 60%;
+}
+.add_or_not img{
+    width: 2em;
+    height: auto;
+}
+.quantity{
+    color: #fff;
+    display: flex;
+    align-items: center;
+}
+
+.numbers_menu_element_mobile{
+    display: flex;
+    flex-direction: column;
+    width: 40%;
+    text-align: right;
+    color: #fff;
+}
+.numbers_menu_element_mobile_weight{
+    color: gray;
+    font-size: 0.7em;
+}
+.numbers_menu_element_mobile_price{
+    font-size: 1.2em;
+}
+
+.second_menu_element_mobile{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 0em 1em;
+    width: 50%; 
+    overflow: hidden;
+}
+.second_menu_element_mobile_text{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 70%;
+    max-width: 100%;
+    width: 100%;
+}
+.description_container {
+    text-align: justify;
+}
+.description {
+    color: #A67B4A;
+    font-size: 0.7em;
+    font-weight: 600;
+    text-transform: capitalize;
+}
+
+.second_menu_element_mobile_text_title {
+    width: 100%;
+    color: #fff;
+    font-size: 1.2em;
+    text-transform: capitalize;
+    word-wrap: break-word; 
+    overflow-wrap: break-word; 
+    white-space: normal;
+}
+.to_cart{
+    width: 100%;
+    background-color: #A67B4A;
+    border: none;
+    border-radius: 1px;
+    padding: 0.7em 1em;
+    color: #fff;
+    cursor: pointer;
+    transition: .3s;
+}
+.to_cart:hover{
+    background-color: #c0915a;
+}
+
+
+
+@media (max-width: 580px){
+    .first_img{
+        width: 10em;
+        height: auto;
+    }
+    
+}

@@ -3,7 +3,8 @@ import { useParams } from 'react-router-dom';
 import MenuElement from './MenuElement/MenuElement';
 import { menu_items_list } from "../../assets/assets";
 import "./MenuPage.css";
-import MenuNav from './MenuNav/MenuNav';
+import MenuNav, { categories } from './MenuNav/MenuNav';
+import MenuElementMobile from './MenuElementMobile/MenuElementMobile';
 
 const MenuPage = () => {
   const {category: initialCategory} = useParams();
@@ -34,6 +35,11 @@ const MenuPage = () => {
 
   return (
     <div className='menupage' id='menu'>
+
+      <h1 className='food_name'>
+      {categories.find((cat) => cat.id === category)?.label.replace(/<br\s*\/?>/g, ' ')}
+      </h1>
+
       <MenuNav category={category} setGlobalCategory={setGlobalCategory} />
       <div className="menupage-container">
         {filteredMenuItems.map((item) => (
@@ -44,6 +50,18 @@ const MenuPage = () => {
           />
         ))}
       </div>
+
+      <div className="menupage_container_mobile">
+        {filteredMenuItems.map((item) => (
+          <MenuElementMobile
+            key={item.id} 
+            item={item}
+            addToCart={addToCart}
+          />
+        ))}
+      </div>
+
+        <br />
     </div>
   );
 }

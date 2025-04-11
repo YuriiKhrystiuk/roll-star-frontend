@@ -16,9 +16,9 @@ const MainPage = () => {
 
         <MenuBar />
 
-        <MapComponent />
-
         <RollstarSlider />
+
+        <MapComponent />
 
         <DivideElement />
 

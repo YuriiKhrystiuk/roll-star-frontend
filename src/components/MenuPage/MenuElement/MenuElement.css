@@ -23,6 +23,7 @@
     border: 2px solid #A67B4A;
 }
 
+
 .dish_img img {
     width: 16em;
     height: auto;
@@ -62,11 +63,20 @@
 
 .plus_minus {
     display: flex;
-    margin: 0.5em 0;
-}
+    align-items: center;
 
+}
 .plus_minus img {
     cursor: pointer;
+}
+
+.minus{
+    height: 2em;
+    width: auto;
+}
+.plus{
+    height: 2em;
+    width: auto;
 }
 
 .quantity-container {
@@ -85,3 +95,4 @@
 .knopka:hover{
     background-color: #c0915a;
 }
+

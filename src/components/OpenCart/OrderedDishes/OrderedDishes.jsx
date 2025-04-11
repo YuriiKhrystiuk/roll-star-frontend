@@ -15,12 +15,13 @@ const OrderedDishes = ({ orderedItems }) => {
       <h1>Ваші Замовлення</h1>
       <br />
       <div className={style.scroll}>
+        
         {orderedItems.length === 0 ? (
           <p className={style.empty}>Кошик порожній ._.</p>
         ) : (
           orderedItems.map((item) => (
             <div className={style.dish} key={item.id}>
-              <div>
+              <div className={style.ordered_food_img_center}>
                 <img className={style.ordered_food_img} src={item.image} />
               </div>
               <div className={style.description}>

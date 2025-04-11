@@ -47,11 +47,11 @@ const MenuElement = ({ item }) => {
         </div>
         <div className='to_card'>
           <div className='plus_minus'>
-            <img onClick={decreaseItemCount} src={assets.minus} alt="minus" className='minus'/>
+            <img  onClick={decreaseItemCount} className='minus' src={assets.minus} alt="minus"/>
             <div className="quantity-container">
               <h3 className='quantity'>{itemCount}</h3>
             </div>
-            <img onClick={increaseItemCount} src={assets.plus} alt="plus" className='plus'/>
+            <img onClick={increaseItemCount} className='plus' src={assets.plus} alt="plus" />
           </div>
           <button className='knopka' onClick={handleAddToCart}><h3>У кошик</h3></button>
         </div>
