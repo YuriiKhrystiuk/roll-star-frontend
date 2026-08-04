@@ -25,7 +25,7 @@ const Footer = () => {
                 <div className={style.mobile_footer}>
                     <ul>
                         <h4>Оформити замовлення:</h4>
-                        <li>+38(068)271-18-16</li>
+                        <li>+38(073)271-18-16</li>
                     </ul>
                 </div>
 
@@ -66,7 +66,7 @@ const Footer = () => {
         </footer>
 
         <div className={style.bottom_text}>
-            <p className={style.navigation_footer}>© 2024 Rollstar</p>
+            <p className={style.navigation_footer}>© 2026 Rollstar</p>
             <p className={style.navigation_footer}>Cуші-бар у Вінниці</p>
             <br />
             <div className={style.navigation_footer}>Created by 
