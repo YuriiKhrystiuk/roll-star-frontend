@@ -1586,7 +1586,7 @@ export const menu_items_list = [ // Menu
             title: "Футомак з вугрем",
             description: "Рис норі, вершковий сир, манго, вугор, ікра масага, соус Унагі, кунжут мікс, мигдаль",
             weight: 310,
-            price: 249,
+            price: 280,
             type: "rolls"
         },
         {
