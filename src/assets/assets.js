@@ -413,7 +413,7 @@ export const menu_items_list = [ // Menu
         title: "Капрічоза",
         description: "Тісто, маринара, куряче філе, шинка, печериці, моцарела, маслини, помідор",
         weight: 650,
-        price: 235,
+        price: 270,
         type: "pizza"
     },
     {
@@ -422,7 +422,7 @@ export const menu_items_list = [ // Menu
         title: "Цезар",
         description: "Тісто, вершки, моцарела, куряче філе, бекон, томат чері, яйця перепелині, айсберг, пармезан",
         weight: 650,
-        price: 289,
+        price: 332,
         type: "pizza"
     },
     {
@@ -431,7 +431,7 @@ export const menu_items_list = [ // Menu
         title: "Діабло",
         description: "Тісто, маринара, моцарела, пепероні, мисливські ковбаски, бекон, соус ширачі, халапеньйо",
         weight: 650,
-        price: 240,
+        price: 276,
         type: "pizza"
     },
     {
@@ -440,7 +440,7 @@ export const menu_items_list = [ // Menu
         title: "Маргарита",
         description: "Тісто, маринара, моцарела, помідор, оливки",
         weight: 600,
-        price: 210,
+        price: 240,
         type: "pizza"
     },
     {
@@ -449,7 +449,7 @@ export const menu_items_list = [ // Menu
         title: "4 Сира",
         description: "Тісто для піц, моцарела, сир гауда, сир дорблю, вершки, пармезан",
         weight: 650,
-        price: 260,
+        price: 299,
         type: "pizza"
     },
     {
@@ -458,7 +458,7 @@ export const menu_items_list = [ // Menu
         title: "М’ясна",
         description: "Тісто, маринара, моцарела, бекон, салямі, шинка, айсберг",
         weight: 650,
-        price: 280,
+        price: 322,
         type: "pizza"
     },
     {
@@ -467,7 +467,7 @@ export const menu_items_list = [ // Menu
         title: "Мисливська",
         description: "Тісто, маринара, моцарела, мисливські ковбаси, салямі, оливки",
         weight: 650,
-        price: 250,
+        price: 287,
         type: "pizza"
     },
     {
@@ -476,7 +476,7 @@ export const menu_items_list = [ // Menu
         title: "Прошуто і Манго",
         description: "Тісто, маринара, моцарела, прошуто, сир дорблю, манго",
         weight: 650,
-        price: 280,
+        price: 322,
         type: "pizza"
     },
     {
@@ -485,7 +485,7 @@ export const menu_items_list = [ // Menu
         title: "Салямі",
         description: "Тісто, маринара, моцарела, салямі",
         weight: 650,
-        price: 239,
+        price: 274,
         type: "pizza"
     },
     {
@@ -494,7 +494,7 @@ export const menu_items_list = [ // Menu
         title: "Морепродукти",
         description: "Тісто, маринара, моцарела, лосось, мідія, кальмар, креветка тигрова, руккола",
         weight: 650,
-        price: 299,
+        price: 343,
         type: "pizza"
     },
     {
@@ -503,7 +503,7 @@ export const menu_items_list = [ // Menu
         title: "Дуже М’ясна",
         description: "Тісто, маринара, моцарела, шинка, бекон, салямі, мисливські ковбаси, куряче філе, пепероні, айсберг",
         weight: 650,
-        price: 299,
+        price: 343,
         type: "pizza"
     },
     {
@@ -512,7 +512,7 @@ export const menu_items_list = [ // Menu
         title: "Гавайська",
         description: "Тісто, моцарела, вершки, шинка, бекон, помідор, ананас консервований",
         weight: 650,
-        price: 240,
+        price: 275,
         type: "pizza"
     },
     {
@@ -521,7 +521,7 @@ export const menu_items_list = [ // Menu
         title: "Сет №1",
         description: 'Філадельфія з вугрем, Філадельфія класична, Філадельфія з тунцем',
         weight: 720,
-        price: 830,
+        price: 930,
         type: "sushi"
     },
     {
@@ -530,7 +530,7 @@ export const menu_items_list = [ // Menu
         title: "Сет №2",
         description: 'Філадельфія з вугрем, Філадельфія класична, Філадельфія з грушею, Філадельфія з тунцем',
         weight: 970,
-        price: 1102,
+        price: 1245,
         type: "sushi"
     },
     {
@@ -539,7 +539,7 @@ export const menu_items_list = [ // Menu
         title: "Сет №3",
         description: 'Black Філадельфія гриль з авокадо, Black Філадельфія гриль з манго, Black Філадельфія гриль з тунцем, Філадельфія з грушею',
         weight: 1030,
-        price: 1061,
+        price: 1200,
         type: "sushi"
     },
     {
@@ -548,7 +548,7 @@ export const menu_items_list = [ // Menu
         title: "Сет №4",
         description: 'Black чеддер з грушею, Філадельфія класична, Black Аляска з тунцем, Боніто з копченим лососем',
         weight: 930,
-        price: 985,
+        price: 1120,
         type: "sushi"
     },
     {
@@ -557,7 +557,7 @@ export const menu_items_list = [ // Menu
         title: "Сет №5",
         description: 'Філадельфія з креветкою, Аляска з Лососем, Black Аляска з тунцем, Філадельфія з копченим лососем',
         weight: 980,
-        price: 1195,
+        price: 1350,
         type: "sushi"
     },
     {
@@ -566,7 +566,7 @@ export const menu_items_list = [ // Menu
         title: "Сет №6",
         description: 'Філадельфія з крабом, Футомак з вугрем, Філадельфія з грушею, Black чеддер з смаженим лососем',
         weight: 1280,
-        price: 1065,
+        price: 1200,
         type: "sushi"
     },
     {
@@ -575,7 +575,7 @@ export const menu_items_list = [ // Menu
         title: "Сет №7",
         description: 'Black Дракон, Зелений дракон, Золотий дракон, Червоний дракон, Зелений дракон з креветкою фрі',
         weight: 1450,
-        price: 1577,
+        price: 1850,
         type: "sushi"
     },
     {
@@ -584,7 +584,7 @@ export const menu_items_list = [ // Menu
         title: "Сет №8",
         description: 'Філадельфія з копченим лососем, Black Аляска з тунцем, Боніто з Лососем, Філадельфія з креветкою, Black чеддер з креветкою фрі, Філадельфія в кунжуті з лососем, Футомак з лососем, Футомак з вугрем',
         weight: 1930,
-        price: 2085,
+        price: 2350,
         type: "sushi"
     },
     {
@@ -593,7 +593,7 @@ export const menu_items_list = [ // Menu
         title: "Хот-сет №9",
         description: 'Темпура з вугрем, Темпура з креветкою фрі, Black Темпура з лососем, Black Темпура з копченим лососем',
         weight: 1100,
-        price: 1100,
+        price: 1240,
         type: "sushi"
     },
 {
@@ -602,7 +602,7 @@ export const menu_items_list = [ // Menu
         title: "Запечений Сет",
         description: 'Запечений з вугрем, Запечений з креветкою, Запечений з лосоем, Запечений з тунцем',
         weight: 1030,
-        price: 1089,
+        price: 1230,
         type: "sushi"
     },
     {
@@ -611,7 +611,7 @@ export const menu_items_list = [ // Menu
         title: "Том-Ям з Морепродуктами",
         description: "Томат чері, мідія, креветка бейбі, восьминіг, кальмар, кокосове молоко, соєвий соус, том-ям паста, бульйон курячий",
         weight: 500,
-        price: 235,
+        price: 260,
         type: "soups"
     },
     {
@@ -620,7 +620,7 @@ export const menu_items_list = [ // Menu
         title: "Том-Ям з Лососем",
         description: "Лосось, томат чері, кунжут мікс, зеленна цибуля, кокосове молоко, соєвий соус, том-ям паста, бульйон курячий",
         weight: 500,
-        price: 250,
+        price: 260,
         type: "soups"
     },
     {
@@ -629,7 +629,7 @@ export const menu_items_list = [ // Menu
         title: "Том-Ям з креветками",
         description: "Томат чері, креветка бейбі, кунжут мікс, кокосове молоко, соєвий соус, том-ям паста, бульйон курячий",
         weight: 500,
-        price: 225,
+        price: 250,
         type: "soups"
     },
     {
@@ -638,7 +638,7 @@ export const menu_items_list = [ // Menu
         title: "Фіш-Dog з вугрем",
         description: "Рис, вершковий сир, соус унагі, кляр, вугор, манго",
         weight: 380,
-        price: 315,
+        price: 320,
         type: "fishburger"
     },
     {
@@ -647,7 +647,7 @@ export const menu_items_list = [ // Menu
         title: "Фіш-Dog з креветкою",
         description: 'Рис, вершковий сир, кляр, соус Світ чілі, креветка тигрова, огірок',
         weight: 380,
-        price: 310,
+        price: 315,
         type: "fishburger",
     },
     {
@@ -656,7 +656,7 @@ export const menu_items_list = [ // Menu
         title: "Фіш-Dog з лососем",
         description: 'Рис, вершковий сир, кляр, соус спайс, лосось, авокадо',
         weight: 380,
-        price: 310,
+        price: 315,
         type: "fishburger"
     },
     {
@@ -665,7 +665,7 @@ export const menu_items_list = [ // Menu
         title: "Фіш-бургер з тунцем",
         description: 'Рис, вершковий сир, тунець, сир чеддер, айсберг, соус унагі, груша, огірок, кляр',
         weight: 450,
-        price: 280,
+        price: 290,
         type: "fishburger",
     },
     {
@@ -692,7 +692,7 @@ export const menu_items_list = [ // Menu
         title: 'Фіш-Бурег з вугрем',
         description: 'Рис, вершковий сир, вугор, сир чеддер, айсберг, соус унагі, манго, огірок, кляр',
         weight: 450,
-        price: 290,
+        price: 300,
         type: "fishburger"
     },
     {
@@ -701,7 +701,7 @@ export const menu_items_list = [ // Menu
         title: "Боул з тунцем",
         description: 'Рис, салат хіяші, томат чері, айсберг, огірок, груша, тунець, соус унагі, кунжут мікс',
         weight: 420,
-        price: 250,
+        price: 290,
         type: "bouly"
     },
     {
@@ -710,7 +710,7 @@ export const menu_items_list = [ // Menu
         title: "Боул з лососем",
         description: 'Рис, салат хіяші, соус Унагі, томат чері, айсберг, огірок, авокадо, лосось, мигдаль, кунжут мікс',
         weight: 420,
-        price: 267,
+        price: 305,
         type: "bouly"
     },
     {
@@ -719,7 +719,7 @@ export const menu_items_list = [ // Menu
         title: "Боул з креветкою",
         description: 'Рис, салат хіяші, томат чері, айсберг, огірок, авокадо, креветка тигрова, соус унагі, ікра масаго',
         weight: 420,
-        price: 270,
+        price: 305,
         type: "bouly"
     },
     {
@@ -728,7 +728,7 @@ export const menu_items_list = [ // Menu
         title: "Боул з вугрем",
         description: 'Рис, салат хіяші, томат чері, айсберг, огірок, манго, вугор, соус унагі, мигдаль, кунжут мікс',
         weight: 420,
-        price: 276,
+        price: 310,
         type: "bouly"
     },
     
@@ -740,7 +740,7 @@ export const menu_items_list = [ // Menu
         title: "Black Mix Філадельфія",
         description: "Норі рис, авокадо, лосось, вершковий сир, ікра масаго, вугор, мікс кунжут мегдаль",
         weight: 330,
-        price: 327,
+        price: 350,
         type: "rolls"
     },
     {
@@ -749,7 +749,7 @@ export const menu_items_list = [ // Menu
         title: "Black Аляска з вугрем",
         description: "Рис, вершковий сир, огірок, авокадо, вугор, норі, ікра масаго",
         weight: 330,
-        price: 311,
+        price: 350,
         type: "rolls"
     },
     {
@@ -758,7 +758,7 @@ export const menu_items_list = [ // Menu
         title: "Black Аляска з копченим лососем",
         description: "Рис, вершковий сир, огірок, авокадо, лосось копчений, ікра масаго, норі",
         weight: 330,
-        price: 320,
+        price: 350,
         type: "rolls"
     },
     {
@@ -767,7 +767,7 @@ export const menu_items_list = [ // Menu
         title: "Black Аляска з тунцем",
         description: "Рис, вершковий сир, авокадо, огірок, тунець, норі",
         weight: 330,
-        price: 280,
+        price: 315,
         type: "rolls"
     },
 
@@ -777,7 +777,7 @@ export const menu_items_list = [ // Menu
         title: "Black дракон",
         description: "Рис норі, вугор, огірок, манго, тунець",
         weight: 330,
-        price: 351,
+        price: 360,
         type: "rolls"
     }, 
     {
@@ -786,7 +786,7 @@ export const menu_items_list = [ // Menu
         title: "Black каліфорнія з тунцем",
         description: "Рис, огірок, авокадо, айсберг, тунець, норі, ікра масаго",
         weight: 310,
-        price: 245,
+        price: 290,
         type: "rolls"
     },
     {
@@ -795,7 +795,7 @@ export const menu_items_list = [ // Menu
         title: "Black Темпура з копченим лососем",
         description: "Рис, вершковий сир, манго, лосось копчений, соус спайс, кляр",
         weight: 340,
-        price: 276,
+        price: 320,
         type: "rolls"
     },
     {
@@ -804,7 +804,7 @@ export const menu_items_list = [ // Menu
         title: "Black Темпура з лососем",
         description: "Норі, рис, вершковий сир, лосось, авокадо, ікра масаго, зелена цибуля, кляр",
         weight: 340,
-        price: 299,
+        price: 310,
         type: "rolls"
     },
 
@@ -814,7 +814,7 @@ export const menu_items_list = [ // Menu
         title: "Black Філадельфія гриль з авокадо",
         description: "Рис норі, вершковий сир, авокадо, ікра масаго, лосось, кунжут мікс, мигдаль",
         weight: 320,
-        price: 299,
+        price: 330,
         type: "rolls"
     },
     {
@@ -823,7 +823,7 @@ export const menu_items_list = [ // Menu
         title: "Black Філадельфія гриль з манго",
         description: "Рис, вершковий сир, манго, лосось, соус унагі, норі, ікра масаго, кунжут мікс, мигдаль",
         weight: 320,
-        price: 290,
+        price: 330,
         type: "rolls"
     },
     {
@@ -832,7 +832,7 @@ export const menu_items_list = [ // Menu
         title: "Black Філадельфія з грушею та тунцем гриль",
         description: "Рис норі, вершковий сир, груша, соус унагі, кунжут мікс, мигдаль, тунець",
         weight: 310,
-        price: 260,
+        price: 290,
         type: "rolls"
     },
 
@@ -842,7 +842,7 @@ export const menu_items_list = [ // Menu
         title: "Black чедер з грушею",
         description: "Норі, рис, груша, вершковий сир, сир чедер, соус спайс, мигдаль",
         weight: 310,
-        price: 292,
+        price: 270,
         type: "rolls"
     },
     {
@@ -851,7 +851,7 @@ export const menu_items_list = [ // Menu
         title: "Black чедер з жареним лососем",
         description: "Рис норі, вершковий сир, огірок, сир чедер, лосось, соус спайс, мигдаль",
         weight: 330,
-        price: 235,
+        price: 270,
         type: "rolls"
     },
     {
@@ -860,7 +860,7 @@ export const menu_items_list = [ // Menu
         title: "Black чедер з копченим лососем",
         description: "Рис, вершковий сир, лосось копчений, манго, сир чедер, норі, соус спайс",
         weight: 330,
-        price: 282,
+        price: 300,
         type: "rolls"
     },
     {
@@ -869,7 +869,7 @@ export const menu_items_list = [ // Menu
         title: "Black чедер з крабом",
         description: "Норі, рис, вершковий сир, огірок, сніжний краб, сир чедер, соус спайс, мигдаль",
         weight: 330,
-        price: 250,
+        price: 270,
         type: "rolls"
     },
 
@@ -879,7 +879,7 @@ export const menu_items_list = [ // Menu
         title: "Запечений з лососем",
         description: "Норі, рис, вершковий сир, авокадо, ікра масаго, лосось, сир гауда",
         weight: 340,
-        price: 311,
+        price: 340,
         type: "rolls"
     },
 
@@ -889,7 +889,7 @@ export const menu_items_list = [ // Menu
         title: "Hand-Roll з вугрем",
         description: "Норі, рис, вершковий сир, вугор, манго, айсберг, соус Унагі, соус спайс",
         weight: 350,
-        price: 260,
+        price: 285,
         type: "rolls"
     },
     {
@@ -898,7 +898,7 @@ export const menu_items_list = [ // Menu
         title: "Hand-Roll з тунцем",
         description: "Норі, рис, вершковий сир, груша, сир Чеддер, айсберг, соус Унагі, соус спайс, тунець",
         weight: 350,
-        price: 245,
+        price: 265,
         type: "rolls"
     },
     {
@@ -907,7 +907,7 @@ export const menu_items_list = [ // Menu
         title: "Hand-Roll з лососем та вугрем",
         description: "Норі Рис, вугор, зеленна цибуля, вершковий сир, айсберг, соус спайс, соус Унагі, лосось",
         weight: 350,
-        price: 265,
+        price: 280,
         type: "rolls"
     },
     {
@@ -916,7 +916,7 @@ export const menu_items_list = [ // Menu
         title: "Hand-Roll з креветкою",
         description: "Норі, рис, вершковий сир, сир Чеддер, креветка тигрова, авокадо, айсберг, соус Унагі, соус спайс",
         weight: 350,
-        price: 265,
+        price: 280,
         type: "rolls"
     },
     {
@@ -925,7 +925,7 @@ export const menu_items_list = [ // Menu
         title: "Hand-Roll з лососем",
         description: "Норі, рис, вершковий сир, сир Чеддер, авокадо, лосось, айсберг, соус Унагі, соус спайс",
         weight: 350,
-        price: 265,
+        price: 280,
         type: "rolls"
     },
     {
@@ -934,7 +934,7 @@ export const menu_items_list = [ // Menu
         title: "Hand-Roll М'ясний",
         description: "Рис Норі, Вершковий сир, соус спайс, соус Унагі, салямі, бекон, шинка, кляр для темпури",
         weight: 350,
-        price: 199,
+        price: 250,
         type: "rolls"
     },
     {
@@ -943,7 +943,7 @@ export const menu_items_list = [ // Menu
         title: "Hand-Roll сирний",
         description: "Рис Норі, Вершковий сир, моцарела, сир гауда, сир Чедер, кляр для темпури, соус спайс, соус Унагі,",
         weight: 350,
-        price: 199,
+        price: 250,
         type: "rolls"
     },
     {
@@ -952,7 +952,7 @@ export const menu_items_list = [ // Menu
         title: "Hand-Roll з креветкою фрі",
         description: "Рис норі, соус спайс, соус унагі, креветка тигрова, груша, айсберг",
         weight: 350,
-        price: 289,
+        price: 280,
         type: "rolls"
     },
     {
@@ -961,7 +961,7 @@ export const menu_items_list = [ // Menu
         title: "Салат Хіяші з горіховим соусом",
         description: "Салат хіяші, соус горіховий",
         weight: 350,
-        price: 140,
+        price: 160,
         type: "rolls"
     },
     // Dont use is 405-420
@@ -972,7 +972,7 @@ export const menu_items_list = [ // Menu
         title: "Запечений з тунцем",
         description: "Норі, рис, вершковий сир, тунець, груша, кунжут мікс, сир гауда",
         weight: 340,
-        price: 285,
+        price: 300,
         type: "rolls"
     },
 
@@ -982,7 +982,7 @@ export const menu_items_list = [ // Menu
         title: "Зелений дракон",
         description: "Рис, вершковий сир, норі, вугор, огірок, ікра масаго, авокадо, соус Унагі, кунжут мікс, мигдаль",
         weight: 330,
-        price: 302,
+        price: 350,
         type: "rolls"
     },
     {
@@ -991,7 +991,7 @@ export const menu_items_list = [ // Menu
         title: "Зелений дракон з копченим лососем",
         description: "Рис, вершковий сир, норі, лосось копчений, огірок, ікра масаго, авокадо, соус унагі, кунжут мікс, мигдаль",
         weight: 330,
-        price: 345,
+        price: 410,
         type: "rolls"
     },
     {
@@ -1000,7 +1000,7 @@ export const menu_items_list = [ // Menu
         title: "Зелений дракон з креветкою фрі",
         description: "Рис норі, вершковий сир, манго, креветка тигрова, авокадо, соус унагі, кунжут мікс, мигдаль",
         weight: 330,
-        price: 301,
+        price: 340,
         type: "rolls"
     },
     {
@@ -1009,7 +1009,7 @@ export const menu_items_list = [ // Menu
         title: "Золотий дракон",
         description: "Рис, вершковий сир, норі, авокадо, огірок, лосось, вугор, соус унагі, кунжут мікс, мигдаль",
         weight: 370,
-        price: 399,
+        price: 470,
         type: "rolls"
     },
     {
@@ -1018,7 +1018,7 @@ export const menu_items_list = [ // Menu
         title: "Червоний дракон",
         description: "Рис норі, вершковий сир, авокадо, ікра масаго, вугор, лосось",
         weight: 330,
-        price: 330,
+        price: 360,
         type: "rolls"
     },
     {
@@ -1027,7 +1027,7 @@ export const menu_items_list = [ // Menu
         title: "Бронзовий дракон",
         description: "Рис, Вершковий сир, манго, Ікра масага, вугор, сніжний краб, соус Унагі, кунжут білий+чорний, мендаль",
         weight: 340,
-        price: 359,
+        price: 390,
         type: "rolls"
     },
 
@@ -1037,7 +1037,7 @@ export const menu_items_list = [ // Menu
         title: "Каліфорнія з вугрем в ікрі",
         description: "Рис, айсберг, авокадо, огірок, норі, ікра масаго, вугор",
         weight: 310,
-        price: 295,
+        price: 335,
         type: "rolls"
     },
     {
@@ -1046,7 +1046,7 @@ export const menu_items_list = [ // Menu
         title: "Каліфорнія з креветкою в ікрі",
         description: "Рис, авокадо, огірок, айсберг, норі, креветка тигрова, ікра масаго",
         weight: 310,
-        price: 289,
+        price: 325,
         type: "rolls"
     },
     {
@@ -1055,7 +1055,7 @@ export const menu_items_list = [ // Menu
         title: "Каліфорнія з тунцем в ікрі",
         description: "Рис, авокадо, огірок, норі, ікра масаго, лосось копчений, айсберг",
         weight: 310,
-        price: 259,
+        price: 295,
         type: "rolls"
     },
 
@@ -1065,7 +1065,7 @@ export const menu_items_list = [ // Menu
         title: "Макі з вугрем",
         description: "Рис норі, вугор, соус Унагі, мигдаль",
         weight: 130,
-        price: 189,
+        price: 220,
         type: "rolls"
     },
     {
@@ -1074,7 +1074,7 @@ export const menu_items_list = [ // Menu
         title: "Макі з копченим лососем",
         description: "Рис норі, лосось копчений",
         weight: 130,
-        price: 186,
+        price: 190,
         type: "rolls"
     },
     {
@@ -1083,7 +1083,7 @@ export const menu_items_list = [ // Menu
         title: "Макі з креветкою",
         description: "Рис норі, креветка тигрова, огірок",
         weight: 130,
-        price: 179,
+        price: 180,
         type: "rolls"
     },
     {
@@ -1092,7 +1092,7 @@ export const menu_items_list = [ // Menu
         title: "Макі з лососем",
         description: "Рис норі, лосось",
         weight: 130,
-        price: 155,
+        price: 170,
         type: "rolls"
     },
     {
@@ -1101,7 +1101,7 @@ export const menu_items_list = [ // Menu
         title: "Макі з тунцем",
         description: "Рис норі, тунець",
         weight: 130,
-        price: 135,
+        price: 150,
         type: "rolls"
     },
 {
@@ -1110,7 +1110,7 @@ export const menu_items_list = [ // Menu
         title: "Нігірі з вугрем",
         description: "Рис, вугор, соус Унагі",
         weight: 50,
-        price: 92,
+        price: 100,
         type: "rolls"
     },
     {
@@ -1119,7 +1119,7 @@ export const menu_items_list = [ // Menu
             title: "Нігірі з копченим лососем",
             description: "Рис, лосось копчений",
             weight: 50,
-            price: 80,
+            price: 90,
             type: "rolls"
         },
         {
@@ -1128,7 +1128,7 @@ export const menu_items_list = [ // Menu
             title: "Нігірі з креветкою",
             description: "Рис, креветка тигрова",
             weight: 50,
-            price: 75,
+            price: 85,
             type: "rolls"
         },
         {
@@ -1137,7 +1137,7 @@ export const menu_items_list = [ // Menu
             title: "Нігірі з лососем гриль",
             description: "Рис, лосось гриль",
             weight: 50,
-            price: 75,
+            price: 85,
             type: "rolls"
         },
         {
@@ -1146,7 +1146,7 @@ export const menu_items_list = [ // Menu
             title: "Нігірі з лососем",
             description: "Рис, лосось",
             weight: 50,
-            price: 75,
+            price: 85,
             type: "rolls"
         },
         {
@@ -1155,7 +1155,7 @@ export const menu_items_list = [ // Menu
             title: "Нігірі з тунцем гриль",
             description: "Рис, тунець гриль",
             weight: 50,
-            price: 75,
+            price: 85,
             type: "rolls"
         },
         {
@@ -1164,7 +1164,7 @@ export const menu_items_list = [ // Menu
             title: "Нігірі з тунцем",
             description: "Рис, тунець",
             weight: 50,
-            price: 75,
+            price: 85,
             type: "rolls"
         },
 
@@ -1174,7 +1174,7 @@ export const menu_items_list = [ // Menu
             title: "Райдужний дракон",
             description: "Рис норі, Вершковий сир, манго, Авокадо, Ікра масага, лосось, тунець, соус Унагі, кунжут мікс, мендаль",
             weight: 330,
-            price: 365,
+            price: 390,
             type: "rolls"
         },
         {
@@ -1183,7 +1183,7 @@ export const menu_items_list = [ // Menu
             title: "Темпура з тунцем Black",
             description: "Рис, Вершковий сир, груша, зеленна цибуля, тунець, кляр",
             weight: 340,
-            price: 262,
+            price: 290,
             type: "rolls"
         },
         {
@@ -1192,7 +1192,7 @@ export const menu_items_list = [ // Menu
             title: "Black чедер з креветкою фрі",
             description: "Норі, Рис, Вершковий сир, манго, креветка тигрова, сир Чедер, соус спайс, мендаль",
             weight: 330,
-            price: 278,
+            price: 310,
             type: "rolls"
         },
         {
@@ -1201,7 +1201,7 @@ export const menu_items_list = [ // Menu
             title: "Аляска з креветкою",
             description: "Рис, вершковий сир, огірок, авокадо, креветка тигрова, ікра масага, норі",
             weight: 330,
-            price: 292,
+            price: 330,
             type: "rolls"
         }, 
         {
@@ -1210,7 +1210,7 @@ export const menu_items_list = [ // Menu
             title: "Аляска з лососем",
             description: "Рис, вершковий сир, огірок, авокадо, лосось, ікра масага, норі",
             weight: 330,
-            price: 302,
+            price: 340,
             type: "rolls"
         }, {
             id: "448",
@@ -1218,7 +1218,7 @@ export const menu_items_list = [ // Menu
             title: "Боніто з вугрем",
             description: "Рис, вершковий сир, огірок, вугор, норі",
             weight: 290,
-            price: 229,
+            price: 285,
             type: "rolls"
         },
 
@@ -1228,7 +1228,7 @@ export const menu_items_list = [ // Menu
             title: "Боніто з лососем",
             description: "Рис, вершковий сир, огірок, лосось, стружка тунця, норі",
             weight: 300,
-            price: 255,
+            price: 285,
             type: "rolls"
         },
         {
@@ -1237,7 +1237,7 @@ export const menu_items_list = [ // Menu
             title: "Боніто з тунцем",
             description: "Рис, вершковий сир, огірок, тунець, стружка тунця, норі",
             weight: 300,
-            price: 250,
+            price: 280,
             type: "rolls"
         },
 
@@ -1256,7 +1256,7 @@ export const menu_items_list = [ // Menu
             title: "Гункан з креветкою",
             description: "Рис, креветка тигрова, Авокадо, соус спайс",
             weight: 50,
-            price: 85,
+            price: 95,
             type: "rolls"
         },
         {
@@ -1265,7 +1265,7 @@ export const menu_items_list = [ // Menu
             title: "Гункан з лососем",
             description: "Рис, Лосось, соус спайс",
             weight: 50,
-            price: 77,
+            price: 85,
             type: "rolls"
         },
         {
@@ -1274,7 +1274,7 @@ export const menu_items_list = [ // Menu
             title: "Гункан з тунцем",
             description: "Рис, тунець, соус спайс",
             weight: 50,
-            price: 77,
+            price: 80,
             type: "rolls"
         },
         {
@@ -1283,7 +1283,7 @@ export const menu_items_list = [ // Menu
             title: "Запечений рол з вугрем",
             description: "Норі, рис, вершковий сир, вугор, манго, кунжут мікс, сир гауда",
             weight: 340,
-            price: 314,
+            price: 350,
             type: "rolls"
         },
         {
@@ -1292,7 +1292,7 @@ export const menu_items_list = [ // Menu
             title: "Запечений рол з креветкою",
             description: "Норі, рис, вершковий сир, креветка тигрова, огірок, сир гауда",
             weight: 340,
-            price: 299,
+            price: 335,
             type: "rolls"
         },
 
@@ -1302,7 +1302,7 @@ export const menu_items_list = [ // Menu
             title: "Фірмовий Рол з креветкою та копченим лососем",
             description: "Рис пф (н/ф), Вершковий сир, креветка тигрова, Лосось хк, Авокадо, соус спайс (н/ф), Норі",
             weight: 380,
-            price: 350,
+            price: 390,
             type: "rolls"
         },
         {
@@ -1311,7 +1311,7 @@ export const menu_items_list = [ // Menu
             title: "Фірмовий Рол з тунцем та манго",
             description: "Рис пф (н/ф), Вершковий сир, тунець, манго, Норі, соус спайс (н/ф)",
             weight: 330,
-            price: 255,
+            price: 310,
             type: "rolls"
         },
         {
@@ -1320,7 +1320,7 @@ export const menu_items_list = [ // Menu
             title: "Фірмовий Рол з тунцем і крабом",
             description: "Рис, Вершковий сир, манго, Норі, сніжний краб, тунець",
             weight: 320,
-            price: 299,
+            price: 320,
             type: "rolls"
         },
     
@@ -1330,7 +1330,7 @@ export const menu_items_list = [ // Menu
             title: "Солодкий рол Kit-Kat",
             description: "Рисове тісто, вершковий сир, Kit-Kat, М&M's, банан",
             weight: 330,
-            price: 185,
+            price: 300,
             type: "rolls"
         },
         {
@@ -1339,7 +1339,7 @@ export const menu_items_list = [ // Menu
             title: "Солодкий рол Oreo",
             description: "Рисове тісто, вершковий сир, шоколадна паста, банан, М&M's, Oreo",
             weight: 330,
-            price: 185,
+            price: 300,
             type: "rolls"
         },
         {
@@ -1348,7 +1348,7 @@ export const menu_items_list = [ // Menu
             title: "Солодкий рол Snickers",
             description: "Рисове тісто, вершковий сир, шоколадна паста, банан, Snickers, М&M's",
             weight: 330,
-            price: 185,
+            price: 300,
             type: "rolls"
         },
         {
@@ -1357,7 +1357,7 @@ export const menu_items_list = [ // Menu
             title: "Солодкий рол Twix",
             description: "Рисове тісто, вершковий сир, Twix, банан",
             weight: 330,
-            price: 185,
+            price: 300,
             type: "rolls"
         },
     
@@ -1367,7 +1367,7 @@ export const menu_items_list = [ // Menu
             title: "Hand-Roll з лососем",
             description: "Рис Норі, Лосось, Вершковий сир, Авокадо, соус Унагі",
             weight: 350,
-            price: 229,
+            price: 280,
             type: "rolls"
         },
     
@@ -1377,7 +1377,7 @@ export const menu_items_list = [ // Menu
             title: "Темпура з креветкою",
             description: "Рис норі, вершковий сир, креветка тигрова, огірок, ікра масаго, кляр",
             weight: 345,
-            price: 265,
+            price: 300,
             type: "rolls"
         },
         {
@@ -1395,7 +1395,7 @@ export const menu_items_list = [ // Menu
             title: "Філадельфія тунець гриль з креветкою фрі та грушею",
             description: "Рис норі, вершковий сир, груша, тунець, креветка тигрова фрі, соус спайс",
             weight: 330,
-            price: 297,
+            price: 330,
             type: "rolls"
         },
         {
@@ -1404,7 +1404,7 @@ export const menu_items_list = [ // Menu
             title: "Фелікс з вугрем",
             description: "Рис норі, вершковий сир, манго, вугор, соус унагі, мигдаль",
             weight: 340,
-            price: 321,
+            price: 360,
             type: "rolls"
         },
         {
@@ -1413,7 +1413,7 @@ export const menu_items_list = [ // Menu
             title: "Фелікс з креветкою",
             description: "Рис норі, вершковий сир, огірок, креветка тигрова, соус спайс",
             weight: 340,
-            price: 329,
+            price: 360,
             type: "rolls"
         },
         {
@@ -1422,7 +1422,7 @@ export const menu_items_list = [ // Menu
             title: "Фелікс з лососем",
             description: "Рис норі, вершковий сир, авокадо, ікра масаго, лосось, соус спайс",
             weight: 340,
-            price: 311,
+            price: 340,
             type: "rolls"
         },
         {
@@ -1431,7 +1431,7 @@ export const menu_items_list = [ // Menu
             title: "Фелікс з тунцем",
             description: "Рис норі, вершковий сир, груша, тунець, соус спайс",
             weight: 340,
-            price: 299,
+            price: 320,
             type: "rolls"
         },    
 
@@ -1441,7 +1441,7 @@ export const menu_items_list = [ // Menu
             title: "Філадельфія з грушею",
             description: "Рис норі, вершковий сир, груша, лосось, соус Унагі, кунжут мікс, мигдаль",
             weight: 310,
-            price: 292,
+            price: 330,
             type: "rolls"
         },
         {
@@ -1450,7 +1450,7 @@ export const menu_items_list = [ // Menu
             title: "Філадельфія з авокадо",
             description: "Рис норі, вершковий сир, авокадо, ікра масага, лосось",
             weight: 320,
-            price: 292,
+            price: 335,
             type: "rolls"
         },
         {
@@ -1459,7 +1459,7 @@ export const menu_items_list = [ // Menu
             title: "Філадельфія з вугрем в кунжуті",
             description: "Рис норі, вершковий сир, огірок, вугор",
             weight: 310,
-            price: 276,
+            price: 310,
             type: "rolls"
         },
         {
@@ -1468,7 +1468,7 @@ export const menu_items_list = [ // Menu
             title: "Філадельфія з вугрем",
             description: "Рис норі, вершковий сир, огірок, вугор, соус Унагі, кунжут мікс, мигдаль",
             weight: 310,
-            price: 318,
+            price: 360,
             type: "rolls"
         },
         {
@@ -1477,7 +1477,7 @@ export const menu_items_list = [ // Menu
             title: "Філадельфія з копченим лососем",
             description: "Рис норі, вершковий сир, огірок, лосось копчений",
             weight: 310,
-            price: 302,
+            price: 340,
             type: "rolls"
         },
         {
@@ -1486,7 +1486,7 @@ export const menu_items_list = [ // Menu
             title: "Філадельфія з крабом",
             description: "Рис норі, вершковий сир, сніжний краб, огірок, лосось",
             weight: 330,
-            price: 289,
+            price: 340,
             type: "rolls"
         },
         {
@@ -1495,7 +1495,7 @@ export const menu_items_list = [ // Menu
             title: "Філадельфія з креветкою в кунжуті",
             description: "Рис норі, вершковий сир, огірок, креветка тигрова, кунжут мікс",
             weight: 310,
-            price: 250,
+            price: 290,
             type: "rolls"
         },
         {
@@ -1504,7 +1504,7 @@ export const menu_items_list = [ // Menu
             title: "Філадельфія з креветкою",
             description: "Рис норі, вершковий сир, огірок, айсберг, креветка тигрова",
             weight: 310,
-            price: 301,
+            price: 335,
             type: "rolls"
         },
         {
@@ -1513,7 +1513,7 @@ export const menu_items_list = [ // Menu
             title: "Філадельфія з лососем в кунжуті",
             description: "Рис норі, вершковий сир, огірок, лосось, кунжут мікс",
             weight: 310,
-            price: 247,
+            price: 280,
             type: "rolls"
         },
         {
@@ -1522,7 +1522,7 @@ export const menu_items_list = [ // Menu
             title: "Філадельфія з манго",
             description: "Рис норі, вершковий сир, манго, ікра масага, лосось",
             weight: 320,
-            price: 289,
+            price: 325,
             type: "rolls"
         },
         {
@@ -1531,7 +1531,7 @@ export const menu_items_list = [ // Menu
             title: "Філадельфія з тунцем в кунжуті",
             description: "Рис норі, вершковий сир, огірок, тунець, кунжут мікс",
             weight: 310,
-            price: 240,
+            price: 280,
             type: "rolls"
         },
         {
@@ -1540,7 +1540,7 @@ export const menu_items_list = [ // Menu
             title: "Філадельфія з тунцем",
             description: "Рис норі, вершковий сир, огірок, тунець",
             weight: 310,
-            price: 280,
+            price: 300,
             type: "rolls"
         },
         {
@@ -1549,7 +1549,7 @@ export const menu_items_list = [ // Menu
             title: "Філадельфія класична",
             description: "Рис норі, вершковий сир, огірок, лосось",
             weight: 310,
-            price: 292,
+            price: 330,
             type: "rolls"
         },
 
@@ -1559,7 +1559,7 @@ export const menu_items_list = [ // Menu
             title: "Філадельфія з копченим лососем в кунжуті",
             description: "Норі рис, копчаний лосось, вершковий сир, кунжут, орігок",
             weight: 310,
-            price: 260,
+            price: 320,
             type: "rolls"
         },
 
@@ -1569,7 +1569,7 @@ export const menu_items_list = [ // Menu
             title: "Фірмовий рол з вугрем та креветкою",
             description: "Рис норі, вершковий сир, креветка тигрова, зелена цибуля, соус Унагі, кунжут мікс, мигдаль",
             weight: 330,
-            price: 360,
+            price: 390,
             type: "rolls"
         },  {
             id: "487",
@@ -1586,7 +1586,7 @@ export const menu_items_list = [ // Menu
             title: "Футомак з вугрем",
             description: "Рис норі, вершковий сир, манго, вугор, ікра масага, соус Унагі, кунжут мікс, мигдаль",
             weight: 310,
-            price: 280,
+            price: 310,
             type: "rolls"
         },
         {
@@ -1595,7 +1595,7 @@ export const menu_items_list = [ // Menu
             title: "Футомак з смаженим лососем",
             description: "Рис норі, вершковий сир, огірок, ікра масага, лосось, соус Унагі, кунжут мікс, мигдаль",
             weight: 310,
-            price: 250,
+            price: 280,
             type: "rolls"
         },
         {
@@ -1604,7 +1604,7 @@ export const menu_items_list = [ // Menu
             title: "Футомак з копченим лососем",
             description: "Рис норі, вершковий сир, авокадо, ікра масага, лосось копчений",
             weight: 310,
-            price: 256,
+            price: 300,
             type: "rolls"
         },
         {
@@ -1613,7 +1613,7 @@ export const menu_items_list = [ // Menu
             title: "Футомак з лососем",
             description: "Рис норі, вершковий сир, лосось, авокадо, ікра масага",
             weight: 310,
-            price: 253,
+            price: 290,
             type: "rolls"
         },
         {
@@ -1622,7 +1622,7 @@ export const menu_items_list = [ // Menu
             title: "Футомак з тунцем",
             description: "Рис норі, вершковий сир, груша, тунець, ікра масага",
             weight: 310,
-            price: 250,
+            price: 280,
             type: "rolls"
         },
         {
@@ -1631,7 +1631,7 @@ export const menu_items_list = [ // Menu
             title: "Футомак з креветкою",
             description: "Рис норі, вершковий сир, огірок, авокадо, ікра масага, креветка тигрова",
             weight: 310,
-            price: 260,
+            price: 290,
             type: "rolls"
         },
         
@@ -1641,7 +1641,7 @@ export const menu_items_list = [ // Menu
             title: "Нагетси фрі",
             description: "Нагетси",
             weight: 170,
-            price: 130,
+            price: 150,
             type: "fri"
         },
         {
@@ -1650,7 +1650,7 @@ export const menu_items_list = [ // Menu
             title: "Курячі Крильця фрі",
             description: "Куряче крило фрі",
             weight: 250,
-            price: 145,
+            price: 166,
             type: "fri"
         },
         {
@@ -1659,7 +1659,7 @@ export const menu_items_list = [ // Menu
             title: "Курячі стріпси",
             description: "Курячі стріпси фрі",
             weight: 160,
-            price: 150,
+            price: 172,
             type: "fri"
         },
         {
@@ -1668,7 +1668,7 @@ export const menu_items_list = [ // Menu
             title: "Кільця Кальмара фрі",
             description: "Кільця Кальмара",
             weight: 160,
-            price: 160,
+            price: 184,
             type: "fri"
         },
         {
@@ -1677,7 +1677,7 @@ export const menu_items_list = [ // Menu
             title: "Цибулеві кільця",
             description: "Цибулеві кільця фрі",
             weight: 140,
-            price: 99,
+            price: 115,
             type: "fri"
         },
         {
@@ -1686,7 +1686,7 @@ export const menu_items_list = [ // Menu
             title: "Сирні палички ",
             description: "Сирні палички фрі",
             weight: 200,
-            price: 240,
+            price: 276,
             type: "fri"
         },
         {
@@ -1695,7 +1695,7 @@ export const menu_items_list = [ // Menu
             title: "Фрі сет",
             description: "Куряче крило фрі, курячі стріпси фрі, нагетси фрі, цибулеві кільця фрі",
             weight: 600,
-            price: 499,
+            price: 580,
             type: "fri"
         },
     
@@ -1707,7 +1707,7 @@ export const menu_items_list = [ // Menu
             title: "Комбо 1",
             description: "Маргарита, 4 Сира, М'ясна",
             weight: 1900,
-            price: 649,
+            price: 746,
             type: "combo"
         },
         {
@@ -1716,7 +1716,7 @@ export const menu_items_list = [ // Menu
             title: "Комбо 2",
             description: "Цезар, Капрічоза, Мисливська",
             weight: 1900,
-            price: 658,
+            price: 756,
             type: "combo"
         },
         {
@@ -1725,7 +1725,7 @@ export const menu_items_list = [ // Menu
             title: "Комбо 3",
             description: "Піца Прошуто і Манго, Морепродукти, Кокакола",
             weight: 1300,
-            price: 561,
+            price: 645,
             type: "combo"
         },
         {
@@ -1734,7 +1734,7 @@ export const menu_items_list = [ // Menu
             title: "Комбо 4",
             description: "Цезар, Філадельфія з Копченим Лососем",
             weight: 960,
-            price: 522,
+            price: 600,
             type: "combo"
         },
         {
@@ -1743,7 +1743,7 @@ export const menu_items_list = [ // Menu
             title: "Комбо 5",
             description: "Салямі, Гавайська, Діабло, Кокакола",
             weight: 1950,
-            price: 699,
+            price: 803,
             type: "combo"
         }
 ]
